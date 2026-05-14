@@ -254,24 +254,11 @@ body {
             padding: 30px;
             text-align: center;
         }
-        body{
-          zoom: 100%;
-        }
 
         .hero-banner {
     background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('Imagb.jpg');
-    background-size: cover;
-    background-position: center;
-    height: 40vh;
-    display: flex; 
-    align-items: center;
-    justify-content: center;
-    color: white;
-    text-align: center;
-    width:100%;
-    border-bottom: 4px solid #ffffff;
-    
-}
+  
+        }
 }
 
 
