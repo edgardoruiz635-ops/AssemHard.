@@ -6,7 +6,7 @@ const productos = [
     id:1,
     nombre:"RYZEN 5 5600GT",
     precio:895231,
-    imagen:"Img2/ryzen5.jpg",
+    imagen:"ryzen5.jpg",
     descripcion:" Nùcleos: 6 / Hilos: 12 / Socket: AM4 / Velocidad: 3,6 GHz Max: 4,6 GHz / 65W / Arquitectura: zen3 / Gráficos Integrados Radeon Vega 7 ",
     stock:true
     
@@ -15,7 +15,7 @@ const productos = [
     id:2,
     nombre:"RYZEN 5 5600",
     precio:767615,
-    imagen:"Img2/ryzen5.jpg",
+    imagen:"ryzen5.jpg",
     descripcion:" Nùcleos: 6 / Hilos: 12 / Socket: AM4 / Velocidad: 3,5 GHz Max: 4,4 GHz / 65W / Arquitectura: zen3 ",
     stock:true
 },
@@ -23,7 +23,7 @@ const productos = [
     id:3,
     nombre:"RYZEN 5 7600",
     precio:839134,
-    imagen:"Img2/ryzen5.jpg",
+    imagen:"ryzen5.jpg",
     descripcion:" Nùcleos: 6 / Hilos: 12 / Socket: AM5 / Velocidad: 3,8 GHz Max: 5,1 GHz / 65W / Arquitectura: zen4 / Gráficos Integrados Radeon ",
     stock:true
 },
@@ -31,7 +31,7 @@ const productos = [
     id:4,
     nombre:"RYZEN 5 8600G",
     precio:936695,
-    imagen:"Img2/ryzen5.jpg",
+    imagen:"ryzen5.jpg",
     descripcion:" Nùcleos: 6 / Hilos: 12 / Socket: AM5 / Velocidad: 4,3 GHz Max: 5,0 GHz / 65W / Arquitectura: zen4 / Gráficos Integrados Radeon 760M ",
     stock:true
 },
@@ -39,7 +39,7 @@ const productos = [
     id:5,
     nombre:"RYZEN 5 9600x",
     precio:895419,
-    imagen:"Img2/ryzen5.jpg",
+    imagen:"ryzen5.jpg",
     descripcion:" Nùcleos: 6 / Hilos: 12 / Socket: AM5 / Velocidad: 3,9 GHz Max: 5,4 GHz / 65W / Arquitectura: zen5 ",
     stock:true
 },
@@ -47,7 +47,7 @@ const productos = [
     id:6,
     nombre:"RYZEN 7 5700G",
     precio:1001009,
-    imagen:"Img2/ryzen7.jpg",
+    imagen:"ryzen7.jpg",
     descripcion:" Nùcleos: 8 / Hilos: 16 / Socket: AM4 / Velocidad: 3,8 GHz Max: 4,6 GHz / 65W / Arquitectura: zen3 / Gráficos Integrados Radeon Vega 8 ",
     stock:true
 },
@@ -55,7 +55,7 @@ const productos = [
     id:7,
     nombre:"RYZEN 7 5700",
     precio:835382,
-    imagen:"Img2/ryzen7.jpg",
+    imagen:"ryzen7.jpg",
     descripcion:" Nùcleos: 8 / Hilos: 16 / Socket: AM4 / Velocidad: 3,0 GHz Max: 4,1 GHz / 105W / Arquitectura: zen3 / 3D V-Cache ",
     stock:true
 },
@@ -63,7 +63,7 @@ const productos = [
     id:8,
     nombre:"RYZEN 7 7700x",
     precio:1139320,
-    imagen:"Img2/ryzen7.jpg",
+    imagen:"ryzen7.jpg",
     descripcion:" Nùcleos: 8 / Hilos: 16 / Socket: AM5 / Velocidad: 4,5 GHz Max: 5,4 GHz / 105W / Arquitectura: zen4 / Gráficos Integrados Radeon ",
     stock:true
 },
@@ -71,7 +71,7 @@ const productos = [
     id:9,
     nombre:"RYZEN 7 7800x3D",
     precio:1631589,
-    imagen:"Img2/ryzen7.jpg",
+    imagen:"ryzen7.jpg",
     descripcion:" Nùcleos: 8 / Hilos: 16 / Socket: AM5 / Velocidad: 4,2 GHz Max: 5,0 GHz / 120W / Arquitectura: zen4 / 3D V-Cache ",
     stock:true
 },
@@ -79,7 +79,7 @@ const productos = [
     id:10,
     nombre:"RYZEN 7 9800x3D",
     precio:2553212,
-    imagen:"Img2/ryzen7.jpg",
+    imagen:"ryzen7.jpg",
     descripcion:" Nùcleos: 8 / Hilos: 16 / Socket: AM5 / Velocidad: 4,7 GHz Max: 5,2 GHz / 120W / Arquitectura: zen5 / 3D V-Cache ",
     stock:true
 },
@@ -87,7 +87,7 @@ const productos = [
     id:11,
     nombre:"RYZEN 9 9900x",
     precio:1679206,
-    imagen:"Img2/ryzen9.jpg",
+    imagen:"ryzen9.jpg",
     descripcion:" Nùcleos: 12 / Hilos: 24 / Socket: AM5 / Velocidad: 4,4 GHz Max: 5,6 GHz / 120W / Arquitectura: zen5 ",
     stock:true
 },
@@ -95,7 +95,7 @@ const productos = [
     id:12,
     nombre:"RYZEN 9 9900x3D",
     precio:2280029,
-    imagen:"Img2/ryzen9.jpg",
+    imagen:"ryzen9.jpg",
     descripcion:" Nùcleos: 12 / Hilos: 24 / Socket: AM5 / Velocidad: 4,4 GHz Max: 5,5 GHz / 120W / Arquitectura: zen5 / 3D V-Cache ",
     stock:true
 },
@@ -103,7 +103,7 @@ const productos = [
     id:13,
     nombre:"MSI MAG B550 TOMAHAWK MAX WIFI",
     precio:814331,
-    imagen:"Img2/XXX.jpg",
+    imagen:"XXX.jpg",
     descripcion:" AM4 / DDR4 / PCIe 4.0 / SATA 6GB/s / M.2 2 slots / USB 3.2 GEN 2 / HDMI/DP / ATX / WIFI 6E / compatible : RYZEN SERIE 3000, 5000 ",
     stock:true
 },
@@ -111,7 +111,7 @@ const productos = [
     id:14,
     nombre:"GIGABYTE B650 AORUS Elite AX",
     precio:770354,
-    imagen:"Img2/XXX2.jpg",
+    imagen:"XXX2.jpg",
     descripcion:" AM5 / DDR5 / PCIe 5.0 SSD + PCIe 4.0 GPU / SATA 6GB/s / M.2 3 slots / USB 3.2 GEN 2 / HDMI/DP / ATX / WIFI 6E / compatible : RYZEN SERIE 7000, 9000 ",
     stock:true
 },
@@ -119,7 +119,7 @@ const productos = [
     id:15,
     nombre:"MSI MAG B650 Tomahawk WiFi",
     precio:820335,
-    imagen:"Img2/XXX3.jpg",
+    imagen:"XXX3.jpg",
     descripcion:"AM5 / DDR5 / PCIe 4.0 x16 / 6x SATA 6Gb/s / M.2 3 slots / USB 3.2 Gen 2 + USB-C 20Gbps / HDMI 2.1 + DP / ATX / WIFI 6E / RYZEN SERIE 7000, 9000 ",
     stock:true
 },
@@ -127,7 +127,7 @@ const productos = [
     id:16,
     nombre:"MSI MPG B550 GAMING PLUS",
     precio:745288,
-    imagen:"Img2/XXX4.jpg",
+    imagen:"XXX4.jpg",
     descripcion:"AM5 / DDR5",
     stock:true
 },
@@ -135,7 +135,7 @@ const productos = [
     id:17,
     nombre:"ASUS TUF GAMING B650-PLUS",
     precio:722812,
-    imagen:"Img2/XXX5.jpg",
+    imagen:"XXX5.jpg",
     descripcion:"AM5 / DDR5",
     stock:true
 },
@@ -143,7 +143,7 @@ const productos = [
     id:18,
     nombre:"ASUS PRIME Z890-P WiFi",
     precio:1070240,
-    imagen:"Img2/XXX6.jpg",
+    imagen:"XXX6.jpg",
     descripcion:"AM5 / DDR5",
     stock:true
 },
@@ -151,7 +151,7 @@ const productos = [
     id:19,
     nombre:"ASUS ROG STRIX Z890-A GAMING WIFI",
     precio:1319395,
-    imagen:"Img2/XXX7.jpg",
+    imagen:"XXX7.jpg",
     descripcion:"AM5 / DDR5",
     stock:true
 },
@@ -159,7 +159,7 @@ const productos = [
     id:20,
     nombre:"ASROCK B850M-X",
     precio:595195,
-    imagen:"Img2/XXX8.jpg",
+    imagen:"XXX8.jpg",
     descripcion:"AM5 / DDR5",
     stock:true
 },
@@ -167,7 +167,7 @@ const productos = [
     id:21,
     nombre:"MSI B650 GAMING PLUS WiFi",
     precio:857708,
-    imagen:"Img2/XXX9.jpg",
+    imagen:"XXX9.jpg",
     descripcion:"AM5 / DDR5",
     stock:true
 },
@@ -175,7 +175,7 @@ const productos = [
     id:22,
     nombre:"GIGABYTE B650 GAMING X AX",
     precio:955456,
-    imagen:"Img2/XXX10.jpg",
+    imagen:"XXX10.jpg",
     descripcion:"AM5 / DDR5",
     stock:true
 },
@@ -183,7 +183,7 @@ const productos = [
     id:23,
     nombre:"ASUS ROG STRIX B850-F GAMING WiFi",
     precio:1173091,
-    imagen:"Img2/XXX11.jpg",
+    imagen:"XXX11.jpg",
     descripcion:"AM5 / DDR5",
     stock:true
 },
@@ -191,7 +191,7 @@ const productos = [
     id:24,
     nombre:"MSI X870E Gaming Plus WiFi",
     precio:970428,
-    imagen:"Img2/XXX12.jpg",
+    imagen:"XXX12.jpg",
     descripcion:"AM5 / DDR5",
     stock:true
 },
@@ -199,7 +199,7 @@ const productos = [
     id:25,
     nombre:"CORSAIR Vengeance  16 GB (2 x 8 GB)",
     precio:1214329,
-    imagen:"Img2/XXX13.jpg",
+    imagen:"XXX13.jpg",
     descripcion:" AM4 / DDR4 / PCIe 4.0 / SATA 6GB/s / M.2 2 slots / USB 3.2 GEN 2 / HDMI/DP / ATX / WIFI 6E / compatible : RYZEN SERIE 3000, 5000 ",
     stock:true
 },
@@ -207,7 +207,7 @@ const productos = [
     id:26,
     nombre:"Kingston Fury Beast RGB 32GB (2 x 16 GB)",
     precio:1829749,
-    imagen:"Img2/XXX14.jpg",
+    imagen:"XXX14.jpg",
     descripcion:" AM5 / DDR5 / PCIe 5.0 SSD + PCIe 4.0 GPU / SATA 6GB/s / M.2 3 slots / USB 3.2 GEN 2 / HDMI/DP / ATX / WIFI 6E / compatible : RYZEN SERIE 7000, 9000 ",
     stock:true
 },
@@ -215,7 +215,7 @@ const productos = [
     id:27,
     nombre:"CORSAIR VENGEANCE RGB  RAM 32 GB (2 x 16 GB)",
     precio:2283743,
-    imagen:"Img2/XXX15.jpg",
+    imagen:"XXX15.jpg",
     descripcion:"AM5 / DDR5 / PCIe 4.0 x16 / 6x SATA 6Gb/s / M.2 3 slots / USB 3.2 Gen 2 + USB-C 20Gbps / HDMI 2.1 + DP / ATX / WIFI 6E / RYZEN SERIE 7000, 9000 ",
     stock:true
 },
@@ -223,7 +223,7 @@ const productos = [
     id:28,
     nombre:"Kingston Fury Beast RGB 16GB (2 x 8 GB)",
     precio:1604572,
-    imagen:"Img2/XXX14.jpg",
+    imagen:"XXX14.jpg",
     descripcion:"16GB (2x8GB) / DDR5 / RGB / 5600MHz / CL36",
     stock:true
 },
@@ -231,7 +231,7 @@ const productos = [
     id:29,
     nombre:"G.SKILL Flare X5 32GB (2 x 16 GB)",
     precio:1945283,
-    imagen:"Img2/XXX16.jpg",
+    imagen:"XXX16.jpg",
     descripcion:"32GB (2x16GB) / DDR5 / AMD EXPO / 6000MHz / CL36",
     stock:true
 },
@@ -239,7 +239,7 @@ const productos = [
     id:30,
     nombre:"G.SKILL Flare X5 16GB (2 x 8 GB)",
     precio:1143035,
-    imagen:"Img2/XXX16.jpg",
+    imagen:"XXX16.jpg",
     descripcion:"16GB (2x8GB) / DDR5 / AMD EXPO / 5600MHz / CL36",
     stock:true
 },
@@ -247,7 +247,7 @@ const productos = [
     id:31,
     nombre:"CORSAIR VENGEANCE RGB PRO 16 GB (2 x 8 GB)",
     precio:824087,
-    imagen:"Img2/XXX17.jpg",
+    imagen:"XXX17.jpg",
     descripcion:"16GB (2x8GB) / DDR4 / RGB / 3200MHz / CL16",
     stock:true
 },
@@ -255,7 +255,7 @@ const productos = [
     id:32,
     nombre:"CORSAIR Vengeance LPX 16 GB (2 x 8 GB)",
     precio:782811,
-    imagen:"Img2/XXX18.jpg",
+    imagen:"XXX18.jpg",
     descripcion:"16GB (2x8GB) / DDR4 / Low Profile / 3200MHz / CL16",
     stock:true
 },
@@ -263,7 +263,7 @@ const productos = [
     id:33,
     nombre:"CORSAIR Vengeance LPX 32 GB (2 x 16 GB)",
     precio:1270614,
-    imagen:"Img2/XXX18.jpg",
+    imagen:"XXX18.jpg",
     descripcion:"32GB (2x16GB) / DDR4 / Low Profile / 3600MHz / CL18",
     stock:true
 },
@@ -271,7 +271,7 @@ const productos = [
     id:34,
     nombre:"GIGASTONE Game TURBO Kit de 16 GB (2 x 8 GB)",
     precio:704013,
-    imagen:"Img2/XXX19.jpg",
+    imagen:"XXX19.jpg",
     descripcion:"16GB (2x8GB) / DDR4 / Gaming / 3200MHz / CL16",
     stock:true
 },
@@ -279,7 +279,7 @@ const productos = [
     id:35,
     nombre:"GIGASTONE Game TURBO Kit 32GB (2 x 16 GB)",
     precio:1154292,
-    imagen:"Img2/XXX19.jpg",
+    imagen:"XXX19.jpg",
     descripcion:"32GB (2x16GB) / DDR4 / Gaming / 3600MHz / CL18",
     stock:true
 },
@@ -287,7 +287,7 @@ const productos = [
     id:36,
     nombre:"CORSAIR Vengeance RGB RS 64GB (2 x 32 GB)",
     precio:34049442,
-    imagen:"Img2/XXX20.jpg",
+    imagen:"XXX20.jpg",
     descripcion:"64GB (2x32GB) / DDR4 / RGB / 3600MHz / CL18",
     stock:true
 },
@@ -295,7 +295,7 @@ const productos = [
     id:37,
     nombre:"Kingston NV3 500GB M.2 NVMe SSD",
     precio:698234,
-    imagen:"Img2/XXX21.jpg",
+    imagen:"XXX21.jpg",
     descripcion:"500GB / M.2 NVMe / PCIe 4.0 / 5000MB/s Lectura",
     stock:true
 },
@@ -303,7 +303,7 @@ const productos = [
     id:38,
     nombre:"WD Blue SN5100 1TB M.2 NVMe SSD",
     precio:932942,
-    imagen:"Img2/XXX22.jpg",
+    imagen:"XXX22.jpg",
     descripcion:"1TB / M.2 NVMe / PCIe 4.0 / 5150MB/s Lectura",
     stock:true
 },
@@ -311,7 +311,7 @@ const productos = [
     id:39,
     nombre:"Samsung 990 PRO 2TB M.2 NVMe SSD",
     precio:1833464,
-    imagen:"Img2/XXX23.jpg",
+    imagen:"XXX23.jpg",
     descripcion:"2TB / M.2 NVMe / PCIe 4.0 / 7450MB/s Lectura",
     stock:true
 },
@@ -319,7 +319,7 @@ const productos = [
     id:40,
     nombre:"Kingston 480GB A400 SATA 3 2.5",
     precio:629003,
-    imagen:"Img2/XXX24.jpg",
+    imagen:"XXX24.jpg",
     descripcion:"480GB / SATA III / 2.5 Pulgadas / 500MB/s Lectura",
     stock:true
 },
@@ -327,7 +327,7 @@ const productos = [
     id:41,
     nombre:"Crucial BX500 1TB 3D NAND SATA SSD interno de 2.5",
     precio:895381,
-    imagen:"Img2/XXX25.jpg",
+    imagen:"XXX25.jpg",
     descripcion:"1TB / SATA III / 2.5 Pulgadas / 540MB/s Lectura",
     stock:true
 },
@@ -335,7 +335,7 @@ const productos = [
     id:42,
     nombre:"Samsung Electronics 870 EVO 2TB 2.5",
     precio:2702804,
-    imagen:"Img2/XXX26.jpg",
+    imagen:"XXX26.jpg",
     descripcion:"2TB / SATA III / 2.5 Pulgadas / 560MB/s Lectura",
     stock:true
 },
@@ -343,7 +343,7 @@ const productos = [
     id:43,
     nombre:"Seagate BarraCuda - Disco duro interno de 8 TB",
     precio:1189789,
-    imagen:"Img2/XXX27.jpg",
+    imagen:"XXX27.jpg",
     descripcion:"8TB / HDD / 7200RPM / SATA III / 256MB Cache",
     stock:true
 },
@@ -351,7 +351,7 @@ const productos = [
     id:44,
     nombre:"Western Digital - Disco duro interno WD Blue de 4 TB",
     precio:670242,
-    imagen:"Img2/XXX28.jpg",
+    imagen:"XXX28.jpg",
     descripcion:"4TB / HDD / 5400RPM / SATA III / 256MB Cache",
     stock:true
 },
@@ -359,7 +359,7 @@ const productos = [
     id:45,
     nombre:"Western Digital (WD) BLUE Desktop 1TB",
     precio:550205,
-    imagen:"Img2/XXX29.jpg",
+    imagen:"XXX29.jpg",
     descripcion:"1TB / HDD / 7200RPM / SATA III / 64MB Cache",
     stock:true
 },
@@ -367,7 +367,7 @@ const productos = [
     id:46,
     nombre:"CORSAIR RM1000x ATX 3.1 PCIe 5.1 Ready modular 1000W",
     precio:820335,
-    imagen:"Img2/XXX30.jpg",
+    imagen:"XXX30.jpg",
     descripcion:"1000W / 80 Plus Gold / Modular / PCIe 5.1 / ATX 3.1",
     stock:true
 },
@@ -375,7 +375,7 @@ const productos = [
     id:47,
     nombre:"CORSAIR RM750e ATX 3.1 PCIe 5.1 Ready modular 750W",
     precio:895381,
-    imagen:"Img2/XXX31.jpg",
+    imagen:"XXX31.jpg",
     descripcion:"750W / 80 Plus Gold / Modular / PCIe 5.1 / ATX 3.1",
     stock:true
 },
@@ -383,7 +383,7 @@ const productos = [
     id:48,
     nombre:"MSI MAG A650BE, semimodular ATX de 650 W",
     precio:501387,
-    imagen:"Img2/XXX32.jpg",
+    imagen:"XXX32.jpg",
     descripcion:"650W / 80 Plus Bronze / Semi Modular / ATX",
     stock:true
 },
@@ -391,7 +391,7 @@ const productos = [
     id:49,
     nombre:"MSI MAG A1200PLS PCIE5, modular de 1200 W",
     precio:1120501,
-    imagen:"Img2/XXX33.jpg",
+    imagen:"XXX33.jpg",
     descripcion:"1200W / 80 Plus Platinum / Modular / PCIe 5.0",
     stock:true
 },
@@ -399,7 +399,7 @@ const productos = [
     id:50,
     nombre:"ORA PRO G1, ATX modular de 850 W",
     precio:632718,
-    imagen:"Img2/XXX34.jpg",
+    imagen:"XXX34.jpg",
     descripcion:"850W / 80 Plus Gold / Modular / ATX",
     stock:true
 },
@@ -407,7 +407,7 @@ const productos = [
     id:51,
     nombre:"ORA PRO G1, ATX modular de 1000 W",
     precio:670242,
-    imagen:"Img2/XXX35.jpg",
+    imagen:"XXX35.jpg",
     descripcion:"1000W / 80 Plus Gold / Modular / ATX",
     stock:true
 },
@@ -415,7 +415,7 @@ const productos = [
     id:52,
     nombre:"ASUS Dual GeForce RTX™ 5060",
     precio:1545060,
-    imagen:"Img2/XXX36.jpg",
+    imagen:"XXX36.jpg",
     descripcion:"8GB GDDR7 / RTX 5060 / DLSS 4 / PCIe 5.0",
     stock:true
 },
@@ -423,7 +423,7 @@ const productos = [
     id:53,
     nombre:"Nvidia Gigabyte Windforce GeForce RTX 40 Series RTX 4060 Ti",
     precio:2310000,
-    imagen:"Img2/XXX37.jpg",
+    imagen:"XXX37.jpg",
     descripcion:"16GB GDDR6 / RTX 4060 Ti / DLSS 3 / PCIe 4.0",
     stock:true
 },
@@ -431,7 +431,7 @@ const productos = [
     id:54,
     nombre:"ASUS TUF Gaming GeForce RTX™ 5070 Ti",
     precio:3897245,
-    imagen:"Img2/XXX38.jpg",
+    imagen:"XXX38.jpg",
     descripcion:"16GB GDDR7 / RTX 5070 Ti / DLSS 4 / PCIe 5.0",
     stock:true
 },
@@ -439,7 +439,7 @@ const productos = [
     id:55,
     nombre:"GIGABYTE Radeon RX 9060 XT Gaming OC",
     precio:1946034,
-    imagen:"Img2/XXX39.jpg",
+    imagen:"XXX39.jpg",
     descripcion:"16GB GDDR6 / RX 9060 XT / PCIe 5.0 / Ray Tracing",
     stock:true
 },
@@ -447,7 +447,7 @@ const productos = [
     id:56,
     nombre:"ASRock AMD Radeon RX 7700 XT Challenger",
     precio:1758417,
-    imagen:"Img2/XXX41.jpg",
+    imagen:"XXX41.jpg",
     descripcion:"12GB GDDR6 / RX 7700 XT / PCIe 4.0 / Ray Tracing",
     stock:true
 },
@@ -455,7 +455,7 @@ const productos = [
     id:57,
     nombre:"GIGABYTE Radeon RX 9070 XT Gaming OC",
     precio:2996686,
-    imagen:"Img2/XXX40.jpg",
+    imagen:"XXX40.jpg",
     descripcion:"16GB GDDR6 / RX 9070 XT / PCIe 5.0 / Ray Tracing",
     stock:true
 },
@@ -463,7 +463,7 @@ const productos = [
     id:58,
     nombre:"ASUS TUF Gaming GT302 ARGB Edición Blanca ATX",
     precio:999043,
-    imagen:"Img2/XXX42.jpg",
+    imagen:"XXX42.jpg",
     descripcion:"ATX / ARGB / Vidrio Templado / Flujo de Aire",
     stock:true
 },
@@ -471,7 +471,7 @@ const productos = [
     id:59,
     nombre:"Fractal Design North",
     precio:1120625,
-    imagen:"Img2/XXX43.jpg",
+    imagen:"XXX43.jpg",
     descripcion:"ATX / Madera Natural / Vidrio Templado / Airflow",
     stock:true
 },
@@ -479,7 +479,7 @@ const productos = [
     id:60,
     nombre:"Hyte Y70 Touch Infinite Dual Chamber ATX",
     precio:2372398,
-    imagen:"Img2/XXX44.jpg",
+    imagen:"XXX44.jpg",
     descripcion:"ATX / Pantalla Touch / Dual Chamber / Vidrio Templado",
     stock:true
 },
@@ -487,7 +487,7 @@ const productos = [
     id:61,
     nombre:"Lian Li Lancool 207 Compact ATX",
     precio:771177,
-    imagen:"Img2/XXX45.jpg",
+    imagen:"XXX45.jpg",
     descripcion:"ATX Compacto / Airflow / Vidrio Templado / ARGB",
     stock:true
 },
@@ -495,7 +495,7 @@ const productos = [
     id:62,
     nombre:"Gabinete CORSAIR 4000D",
     precio:756069,
-    imagen:"Img2/XXX46.jpg",
+    imagen:"XXX46.jpg",
     descripcion:"ATX / Airflow / Vidrio Templado / Gestión de Cables",
     stock:true
 },
@@ -503,7 +503,7 @@ const productos = [
     id:63,
     nombre:"CORSAIR 3500X",
     precio:970602,
-    imagen:"Img2/XXX47.jpg",
+    imagen:"XXX47.jpg",
     descripcion:"ATX / Vidrio Templado / ARGB / Alto Flujo de Aire",
     stock:true
 },
@@ -511,7 +511,7 @@ const productos = [
     id:64,
     nombre:"Logitech G Pro X Superlight 2",
     precio:778996,
-    imagen:"Img2/XXX48.jpg",
+    imagen:"XXX48.jpg",
     descripcion:" Mouse Gamer Inalámbrico / Sensor HERO 2 / 32000 DPI / Ultraligero 60g / USB-C / RGB / Compatible Windows y Mac ",
     stock:true
 },
@@ -519,7 +519,7 @@ const productos = [
     id:65,
     nombre:"Razer DeathAdder V3 Pro",
     precio:522122,
-    imagen:"Img2/XXX49.jpg",
+    imagen:"XXX49.jpg",
     descripcion:" Mouse Gamer Inalámbrico / Sensor Focus Pro 30000 DPI / Ergonomico / 63g / USB-C / Hasta 90 horas de batería ",
     stock:true
 },
@@ -527,7 +527,7 @@ const productos = [
     id:66,
     nombre:"SteelSeries Apex Pro TKL",
     precio:895365,
-    imagen:"Img2/XXX50.jpg",
+    imagen:"XXX50.jpg",
     descripcion:" Teclado Mecánico Gamer / Switches OmniPoint ajustables / RGB / Reposamuñecas magnético / USB / Formato Full Size ",
     stock:true
 },
@@ -535,7 +535,7 @@ const productos = [
     id:67,
     nombre:"Corsair K70 RGB PRO TKL",
     precio:748742,
-    imagen:"Img2/XXX51.jpg",
+    imagen:"XXX51.jpg",
     descripcion:" Teclado Mecánico Gamer / Switches Cherry MX / RGB / Anti-Ghosting / Teclas multimedia / USB-C ",
     stock:true
 },
@@ -543,7 +543,7 @@ const productos = [
     id:68,
     nombre:"Logitech G733 LIGHTSPEED",
     precio:673202,
-    imagen:"Img2/XXX52.jpg",
+    imagen:"XXX52.jpg",
     descripcion:" Audífonos Gamer Inalámbricos / RGB LIGHTSYNC / Micrófono removible / Hasta 29 horas de batería / USB inalámbrico ",
     stock:true
 },
@@ -551,7 +551,7 @@ const productos = [
     id:69,
     nombre:"Razer BlackShark V2 Pro",
     precio:703456,
-    imagen:"Img2/XXX53.jpg",
+    imagen:"XXX53.jpg",
     descripcion:" Headset Gamer Inalámbrico / THX Spatial Audio / Micrófono HyperClear / Baja latencia / Hasta 70 horas de batería ",
     stock:true
 },
@@ -559,7 +559,7 @@ const productos = [
     id:70,
     nombre:"Blue Yeti USB",
     precio:590146,
-    imagen:"Img2/XXX54.jpg",
+    imagen:"XXX54.jpg",
     descripcion:" Micrófono USB Profesional / Grabación cardioide / Plug & Play / Ideal streaming y podcast / Compatible PC y Mac ",
     stock:true
 },
@@ -567,7 +567,7 @@ const productos = [
     id:71,
     nombre:"Elgato Stream Deck MK.2",
     precio:786512,
-    imagen:"Img2/XXX55.jpg",
+    imagen:"XXX55.jpg",
     descripcion:" Controlador para Streaming / 15 teclas LCD personalizables / Compatible OBS, Twitch y YouTube / USB-C ",
     stock:true
 },
@@ -575,7 +575,7 @@ const productos = [
     id:72,
     nombre:"Logitech C920 HD Pro",
     precio:478497,
-    imagen:"Img2/XXX56.jpg",
+    imagen:"XXX56.jpg",
     descripcion:" Webcam Full HD 1080p / Micrófonos estéreo integrados / Autofocus / Corrección automática de luz / USB ",
     stock:true
 },
@@ -583,7 +583,7 @@ const productos = [
     id:73,
     nombre:"Razer Kiyo Pro",
     precio:708894,
-    imagen:"Img2/XXX57.jpg",
+    imagen:"XXX57.jpg",
     descripcion:" Webcam Full HD 1080p 60FPS / Sensor adaptativo de luz / HDR / Gran angular ajustable / USB 3.0 ",
     stock:true
 },
@@ -591,7 +591,7 @@ const productos = [
     id:74,
     nombre:"Elgato Facecam MK.2",
     precio:710972,
-    imagen:"Img2/XXX58.jpg",
+    imagen:"XXX58.jpg",
     descripcion:" Webcam Full HD 1080p 60FPS / Lente profesional / Baja latencia / Ideal para streaming / USB-C ",
     stock:true
 },
@@ -599,7 +599,7 @@ const productos = [
     id:75,
     nombre:"Logitech MX Brio Ultra HD 4K",
     precio:786512,
-    imagen:"Img2/XXX59.jpg",
+    imagen:"XXX59.jpg",
     descripcion:" Webcam Ultra HD 4K / HDR / Zoom digital 5x / Reconocimiento facial Windows Hello / USB ",
     stock:true
 },
@@ -607,7 +607,7 @@ const productos = [
     id:76,
     nombre:"HyperX Vision S",
     precio:1027900,
-    imagen:"Img2/XXX60.jpg",
+    imagen:"XXX60.jpg",
     descripcion:" Webcam 4K UHD / Micrófonos duales / Autoenfoque rápido / Compatible OBS y Discord / USB-C ",
     stock:true
 },
@@ -615,7 +615,7 @@ const productos = [
     id:77,
     nombre:"ASUS ROG Eye S",
     precio:824282,
-    imagen:"Img2/XXX61.jpg",
+    imagen:"XXX61.jpg",
     descripcion:" Webcam Full HD 1080p 60FPS / Micrófono con cancelación de ruido IA / Compacta y portátil / USB ",
     stock:true
 },
@@ -623,7 +623,7 @@ const productos = [
     id:78,
     nombre:"TP-Link Archer TX3000E",
     precio:334669,
-    imagen:"Img2/XXX62.jpg",
+    imagen:"XXX62.jpg",
     descripcion:" Adaptador PCIe WiFi 6 / Hasta 2400 Mbps / Bluetooth 5.0 / Antenas de alta ganancia / Compatible Windows ",
     stock:true
 },
@@ -631,7 +631,7 @@ const productos = [
     id:79,
     nombre:"UGREEN Adaptador USB-C a Ethernet",
     precio:286900,
-    imagen:"Img2/XXX63.jpg",
+    imagen:"XXX63.jpg",
     descripcion:" Adaptador USB Tipo C a RJ45 / Velocidad Gigabit 1000 Mbps / Plug & Play / Compatible laptops y PC ",
     stock:true
 },
@@ -639,7 +639,7 @@ const productos = [
     id:80,
     nombre:"TP-Link UB500 Bluetooth 5.0",
     precio:320000,
-    imagen:"Img2/XXX64.jpg",
+    imagen:"XXX64.jpg",
     descripcion:" Adaptador Bluetooth USB / Bluetooth 5.0 / Baja latencia / Compatible audífonos y controles inalámbricos ",
     stock:true
 },
@@ -647,7 +647,7 @@ const productos = [
     id:81,
     nombre:"CableMod Vertical GPU Mount",
     precio:361552,
-    imagen:"Img2/XXX65.jpg",
+    imagen:"XXX65.jpg",
     descripcion:" Adaptador vertical para tarjeta gráfica / Compatible PCIe 4.0 / Soporte metálico premium / Mejora estética RGB ",
     stock:true
 },
@@ -655,7 +655,7 @@ const productos = [
     id:82,
     nombre:"ASUS TUF Gaming ARGB PWM Fan Hub ARGB + PWM",
     precio:333272,
-    imagen:"Img2/XXX66.jpg",
+    imagen:"XXX66.jpg",
     descripcion:" Hub para ventiladores y RGB / Control PWM / Compatible ARGB 5V / Hasta 6 ventiladores ",
     stock:true
 },
@@ -663,14 +663,14 @@ const productos = [
     id:83,
     nombre:"Concentrador USB 3.0 de 10 puertos de aluminio alimentado ",
     precio:600608,
-    imagen:"Img2/XXX67.jpg",
+    imagen:"XXX67.jpg",
     descripcion:" Hub USB 3.0 / 10 puertos de alta velocidad / Compatible PC y laptops ",
     stock:true
 },{
     id:84,
     nombre:"Secretlab TITAN Evo",
     precio:4646135,
-    imagen:"Img2/XXX68.jpg",
+    imagen:"XXX68.jpg",
     descripcion:" Silla Gamer Premium / Reclinación 165° / Soporte lumbar ajustable / Cojín magnético / Acabado cuero híbrido ",
     stock:true
 },
@@ -678,7 +678,7 @@ const productos = [
     id:85,
     nombre:"Razer Iskur V2",
     precio:3077000,
-    imagen:"Img2/XXX69.jpg",
+    imagen:"XXX69.jpg",
     descripcion:" Silla Gamer Ergonómica / Soporte lumbar adaptable / Reclinación ajustable / Espuma de alta densidad ",
     stock:true
 },
@@ -686,7 +686,7 @@ const productos = [
     id:86,
     nombre:"Corsair TC100 Relaxed",
     precio:1462800,
-    imagen:"Img2/XXX70.jpg",
+    imagen:"XXX70.jpg",
     descripcion:" Silla Gamer / Diseño amplio y cómodo / Reclinación hasta 160° / Almohadas cervical y lumbar incluidas ",
     stock:true
 },
@@ -694,7 +694,7 @@ const productos = [
     id:87,
     nombre:"DXRacer Master V2",
     precio:1771062,
-    imagen:"Img2/XXX71.jpg",
+    imagen:"XXX71.jpg",
     descripcion:" Silla Gamer Profesional / Reposabrazos 4D / Soporte lumbar integrado / Estructura metálica resistente ",
     stock:true
 },
@@ -702,7 +702,7 @@ const productos = [
     id:88,
     nombre:"SIHOO M57 Ergonomic Chair",
     precio:3702990,
-    imagen:"Img2/XXX72.jpg",
+    imagen:"XXX72.jpg",
     descripcion:" Silla de Oficina Ergonómica / Respaldo de malla transpirable / Soporte lumbar / Reposacabezas ajustable ",
     stock:true
 },
@@ -710,7 +710,7 @@ const productos = [
     id:89,
     nombre:"Hbada Office Ergonomic Chair",
     precio:2648686,
-    imagen:"Img2/XXX73.jpg",
+    imagen:"XXX73.jpg",
     descripcion:" Silla de Oficina / Diseño ergonómico / Reposabrazos abatibles / Respaldo transpirable / Ajuste de altura ",
     stock:true
 },
@@ -718,7 +718,7 @@ const productos = [
     id:90,
     nombre:"ASUS ROG Strix G16",
     precio:7899990,
-    imagen:"Img2/XXX74.jpg",
+    imagen:"XXX74.jpg",
     descripcion:" Laptop Gamer / Intel Core i7 / RTX 4070 / 16GB RAM DDR5 / SSD 1TB NVMe / Pantalla 16'' 240Hz ",
     stock:true
 },
@@ -726,7 +726,7 @@ const productos = [
     id:91,
     nombre:"MSI Katana 15",
     precio:6499990,
-    imagen:"Img2/XXX75.jpg",
+    imagen:"XXX75.jpg",
     descripcion:" Laptop Gamer / Intel Core i7 / RTX 4060 / 16GB RAM / SSD 1TB / Pantalla Full HD 144Hz ",
     stock:true
 },
@@ -734,7 +734,7 @@ const productos = [
     id:92,
     nombre:"Lenovo Legion Pro 5",
     precio:8699990,
-    imagen:"Img2/XXX76.jpg",
+    imagen:"XXX76.jpg",
     descripcion:" Laptop Gamer / Ryzen 7 / RTX 4070 / 32GB RAM DDR5 / SSD 1TB / Pantalla 16'' 165Hz ",
     stock:true
 },
@@ -742,7 +742,7 @@ const productos = [
     id:93,
     nombre:"AssemHard Starter Gaming PC",
     precio:4599990,
-    imagen:"Img2/XXX77.jpg",
+    imagen:"XXX77.jpg",
     descripcion:" Torre Gamer / Ryzen 5 / RTX 4060 / 16GB RAM / SSD NVMe 1TB / RGB / Ideal gaming Full HD ",
     stock:true
 },
@@ -750,7 +750,7 @@ const productos = [
     id:94,
     nombre:"AssemHard Ultra Gaming PC",
     precio:9899990,
-    imagen:"Img2/XXX78.jpg",
+    imagen:"XXX78.jpg",
     descripcion:" Torre Gamer / Ryzen 7 / RTX 5070 Ti / 32GB RAM DDR5 / SSD NVMe 2TB / Refrigeración líquida ",
     stock:true
 },
@@ -758,7 +758,7 @@ const productos = [
     id:95,
     nombre:"AssemHard Creator Workstation",
     precio:14999990,
-    imagen:"Img2/XXX79.jpg",
+    imagen:"XXX79.jpg",
     descripcion:" Torre Profesional / Ryzen 9 / RTX 5080 / 64GB RAM DDR5 / SSD 2TB / Edición y Streaming ",
     stock:true
 }
