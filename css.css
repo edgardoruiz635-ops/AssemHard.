@@ -186,7 +186,7 @@ body {
         justify-content: space-between;
         width: 90%; /* Mucho más grande, ocupa casi todo el ancho */
         margin: 0 auto;
-        background: #fff;
+        background: #EFEBE7;
         border-radius: 15px;
         overflow: hidden;
         box-shadow: 0 10px 30px rgba(0,0,0,0.08);
