@@ -840,6 +840,7 @@ margin-top:15px;
 
     /* MENU LATERAL */
     .list-cat{
+        top: 10px;
         width: 260px;
         left: -270px;
         padding-bottom: 120px;
