@@ -420,6 +420,7 @@ body {
         padding-top: 80px; 
         height: auto;
         min-height: 100vh;
+        overflow: hidden;
     }
 
     .container {
