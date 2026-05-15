@@ -670,7 +670,7 @@ const productos = [
     id:84,
     nombre:"Secretlab TITAN Evo",
     precio:4646135,
-    imagen:"XXX68.jpg",
+    imagen:"XXX68.JPG",
     descripcion:" Silla Gamer Premium / Reclinación 165° / Soporte lumbar ajustable / Cojín magnético / Acabado cuero híbrido ",
     stock:true
 },
@@ -686,7 +686,7 @@ const productos = [
     id:86,
     nombre:"Corsair TC100 Relaxed",
     precio:1462800,
-    imagen:"XXX70.jpg",
+    imagen:"XXX70.JPG",
     descripcion:" Silla Gamer / Diseño amplio y cómodo / Reclinación hasta 160° / Almohadas cervical y lumbar incluidas ",
     stock:true
 },
