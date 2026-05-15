@@ -670,7 +670,7 @@ const productos = [
     id:84,
     nombre:"Secretlab TITAN Evo",
     precio:4646135,
-    imagen:"XXX68.jpeg",
+    imagen:"XXX68.jpg",
     descripcion:" Silla Gamer Premium / Reclinación 165° / Soporte lumbar ajustable / Cojín magnético / Acabado cuero híbrido ",
     stock:true
 },
@@ -678,7 +678,7 @@ const productos = [
     id:85,
     nombre:"Razer Iskur V2",
     precio:3077000,
-    imagen:"XXX69.jpeg",
+    imagen:"XXX69.jpg",
     descripcion:" Silla Gamer Ergonómica / Soporte lumbar adaptable / Reclinación ajustable / Espuma de alta densidad ",
     stock:true
 },
@@ -686,7 +686,7 @@ const productos = [
     id:86,
     nombre:"Corsair TC100 Relaxed",
     precio:1462800,
-    imagen:"XXX70.jpeg",
+    imagen:"XXX70.jpg",
     descripcion:" Silla Gamer / Diseño amplio y cómodo / Reclinación hasta 160° / Almohadas cervical y lumbar incluidas ",
     stock:true
 },
@@ -694,7 +694,7 @@ const productos = [
     id:87,
     nombre:"DXRacer Master V2",
     precio:1771062,
-    imagen:"XXX71.jpeg",
+    imagen:"XXX71.jpg",
     descripcion:" Silla Gamer Profesional / Reposabrazos 4D / Soporte lumbar integrado / Estructura metálica resistente ",
     stock:true
 },
@@ -702,7 +702,7 @@ const productos = [
     id:88,
     nombre:"SIHOO M57 Ergonomic Chair",
     precio:3702990,
-    imagen:"XXX72.jpeg",
+    imagen:"XXX72.jpg",
     descripcion:" Silla de Oficina Ergonómica / Respaldo de malla transpirable / Soporte lumbar / Reposacabezas ajustable ",
     stock:true
 },
@@ -710,7 +710,7 @@ const productos = [
     id:89,
     nombre:"Hbada Office Ergonomic Chair",
     precio:2648686,
-    imagen:"XXX73.jpeg",
+    imagen:"XXX73.jpg",
     descripcion:" Silla de Oficina / Diseño ergonómico / Reposabrazos abatibles / Respaldo transpirable / Ajuste de altura ",
     stock:true
 },
