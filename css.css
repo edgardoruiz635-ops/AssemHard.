@@ -243,7 +243,8 @@ body {
         background-color: #c51f2b;
         transform: scale(1.05);
     }
-
+
+
 
 /* Estilo de la tarjeta del producto */
 .card {
@@ -362,7 +363,8 @@ body {
     color: #e63946 !important;
     border-color: #e63946;
 }
-
+
+
 .productos-container{
     width: 100%;
     padding: 120px 30px 50px;
@@ -500,7 +502,8 @@ body {
     grid-template-columns:repeat(3,1fr);
     gap:30px;
     padding:40px 0;
-}
+}
+
 
 .card-categoria{
     background:#111;
@@ -760,7 +763,8 @@ margin-top:15px;
 
 .derecha{
     right: -70px;
-}
+}
+
 
 .posts-container{
     width: 100%;
@@ -1043,5 +1047,36 @@ margin-top:15px;
     .medium{ width: 60px; }
     .large{ width: 80px; }
     .space{ width: 100px; }
+
+    .footer-teclado{
+        padding: 12px 4px;
+    }
+
+    .tecla{
+        width: 32px;
+        height: 32px;
+        font-size: 8px;
+
+        flex-shrink: 0; /* evita aplastamiento */
+        border-radius: 6px;
+    }
+
+    .small{
+        width: 28px;
+    }
+
+    .medium{
+        width: 52px;
+    }
+
+    .large{
+        width: 75px;
+    }
+
+    .space{
+        width: 140px;
+    }
+
+}  
 
 }
