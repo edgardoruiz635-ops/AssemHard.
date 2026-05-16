@@ -50,15 +50,16 @@ const productos = [
 {
     id:6,
     nombre:"RYZEN 7 5700G",
-    precio:1001009,
+    precio:930445,
     imagen:"ryzen7.jpg",
     descripcion:" Nùcleos: 8 / Hilos: 16 / Socket: AM4 / Velocidad: 3,8 GHz Max: 4,6 GHz / 65W / Arquitectura: zen3 / Gráficos Integrados Radeon Vega 8 ",
-    stock:true
+    stock:true,
+    link:"https://mpago.li/1HuT6L5"
 },
 {
     id:7,
     nombre:"RYZEN 7 5700",
-    precio:835382,
+    precio:5445454,
     imagen:"ryzen7.jpg",
     descripcion:" Nùcleos: 8 / Hilos: 16 / Socket: AM4 / Velocidad: 3,0 GHz Max: 4,1 GHz / 105W / Arquitectura: zen3 / 3D V-Cache ",
     stock:true
