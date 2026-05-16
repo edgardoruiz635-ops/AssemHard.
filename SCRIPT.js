@@ -14,10 +14,11 @@ const productos = [
 {
     id:2,
     nombre:"RYZEN 5 5600",
-    precio:767615,
+    precio:652214,
     imagen:"ryzen5.jpg",
     descripcion:" Nùcleos: 6 / Hilos: 12 / Socket: AM4 / Velocidad: 3,5 GHz Max: 4,4 GHz / 65W / Arquitectura: zen3 ",
-    stock:true
+    stock:true,
+    link:"https://mpago.li/1GW85ma"
 },
 {
     id:3,
