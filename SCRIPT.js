@@ -22,11 +22,12 @@ const productos = [
 },
 {
     id:3,
-    nombre:"RYZEN 5 7600",
-    precio:839134,
+    nombre:"RYZEN 5 7600x",
+    precio:751008,
     imagen:"ryzen5.jpg",
     descripcion:" Nùcleos: 6 / Hilos: 12 / Socket: AM5 / Velocidad: 3,8 GHz Max: 5,1 GHz / 65W / Arquitectura: zen4 / Gráficos Integrados Radeon ",
-    stock:true
+    stock:true,
+    link:"https://mpago.li/2biG5jD"
 },
 {
     id:4,
