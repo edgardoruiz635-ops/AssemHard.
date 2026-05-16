@@ -86,10 +86,11 @@ const productos = [
 {
     id:10,
     nombre:"RYZEN 7 9800x3D",
-    precio:2553212,
+    precio:2442825,
     imagen:"ryzen7.jpg",
     descripcion:" Nùcleos: 8 / Hilos: 16 / Socket: AM5 / Velocidad: 4,7 GHz Max: 5,2 GHz / 120W / Arquitectura: zen5 / 3D V-Cache ",
-    stock:true
+    stock:true,
+    link:"https://mpago.li/2wKmezZ"
 },
 {
     id:11,
