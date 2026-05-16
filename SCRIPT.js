@@ -104,10 +104,11 @@ const productos = [
 {
     id:12,
     nombre:"RYZEN 9 9900x3D",
-    precio:2280029,
+    precio:2454187,
     imagen:"ryzen9.jpg",
     descripcion:" Nùcleos: 12 / Hilos: 24 / Socket: AM5 / Velocidad: 4,4 GHz Max: 5,5 GHz / 120W / Arquitectura: zen5 / 3D V-Cache ",
-    stock:true
+    stock:true,
+    link:"https://mpago.li/2wpU4Nm"
 },
 {
     id:13,
