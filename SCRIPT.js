@@ -32,10 +32,11 @@ const productos = [
 {
     id:4,
     nombre:"RYZEN 5 8600G",
-    precio:936695,
+    precio:853824,
     imagen:"ryzen5.jpg",
     descripcion:" Nùcleos: 6 / Hilos: 12 / Socket: AM5 / Velocidad: 4,3 GHz Max: 5,0 GHz / 65W / Arquitectura: zen4 / Gráficos Integrados Radeon 760M ",
-    stock:true
+    stock:true,
+    link:"https://mpago.li/1yr24pj"
 },
 {
     id:5,
