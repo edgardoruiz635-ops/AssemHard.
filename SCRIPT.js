@@ -95,10 +95,11 @@ const productos = [
 {
     id:11,
     nombre:"RYZEN 9 9900x",
-    precio:1679206,
+    precio:2244823,
     imagen:"ryzen9.jpg",
     descripcion:" Nùcleos: 12 / Hilos: 24 / Socket: AM5 / Velocidad: 4,4 GHz Max: 5,6 GHz / 120W / Arquitectura: zen5 ",
-    stock:true
+    stock:true,
+    link:"https://mpago.li/15srzy5"
 },
 {
     id:12,
