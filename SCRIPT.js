@@ -869,17 +869,11 @@ window.enviarWhatsApp = (id) => {
 
 const producto = productos.find(p => p.id === id);
 
-const numero = "573002176292"; // TU NUMERO DE WHATSAPP
-
-const mensaje = `Hola, quiero solicitar link de pago 
-
-Producto: ${producto.nombre}
-Precio: $${producto.precio.toLocaleString('es-CO')}
-Cantidad: 1`;
-
-const url = `https://wa.me/${numero}?text=${encodeURIComponent(mensaje)}`;
-
-window.open(url, "_blank");
+if(producto.link){
+    window.open(producto.link, "_blank");
+}else{
+    alert("Este producto no tiene link de pago");
+}
 
 };
 
