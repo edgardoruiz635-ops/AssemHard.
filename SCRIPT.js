@@ -41,10 +41,11 @@ const productos = [
 {
     id:5,
     nombre:"RYZEN 5 9600x",
-    precio:895419,
+    precio:804204,
     imagen:"ryzen5.jpg",
     descripcion:" Nùcleos: 6 / Hilos: 12 / Socket: AM5 / Velocidad: 3,9 GHz Max: 5,4 GHz / 65W / Arquitectura: zen5 ",
-    stock:true
+    stock:true,
+    link:"https://mpago.li/33rbfSy"
 },
 {
     id:6,
