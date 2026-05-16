@@ -810,7 +810,7 @@ Características
 </button>
 
 <button class="buy-btn"
-onclick="enviarWhatsApp(${producto.id})">
+onclick="irFormulario(${producto.id})">
 Comprar
 </button>
 
@@ -865,15 +865,9 @@ modal.classList.add("hidden");
 
 });
 
-window.enviarWhatsApp = (id) => {
+window.irFormulario = (id) => {
 
-const producto = productos.find(p => p.id === id);
-
-if(producto.link){
-    window.open(producto.link, "_blank");
-}else{
-    alert("Este producto no tiene link de pago");
-}
+    window.location.href = `formulario.html?id=${id}`;
 
 };
 
@@ -1020,4 +1014,68 @@ document.querySelectorAll(".info-container").forEach(container => {
 
 });
 
+// ============================
+// FORMULARIO COMPRA
+// ============================
+
+const compraForm =
+document.getElementById("compraForm");
+
+if(compraForm){
+
+    // OBTENER ID DEL PRODUCTO
+
+    const params =
+    new URLSearchParams(window.location.search);
+
+    const id =
+    parseInt(params.get("id"));
+
+    // BUSCAR PRODUCTO
+
+    const producto =
+    productos.find(p => p.id === id);
+
+    // COLOCAR NOMBRE PRODUCTO
+
+    document.getElementById("producto").value =
+    producto.nombre;
+
+    // ENVIAR FORMULARIO
+
+    compraForm.addEventListener("submit",
+    async (e)=>{
+
+        e.preventDefault();
+
+        const data =
+        new FormData(compraForm);
+
+        await fetch(compraForm.action,{
+
+            method:"POST",
+            body:data,
+            headers:{
+                'Accept':'application/json'
+            }
+
+        });
+
+        // REDIRECCIONAR AL PAGO
+
+        if(producto.link){
+
+            window.location.href =
+            producto.link;
+
+        }else{
+
+            alert("Producto sin link de pago");
+
+        }
+
+    });
+
+}
+    
 });
