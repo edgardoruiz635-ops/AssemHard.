@@ -59,10 +59,11 @@ const productos = [
 {
     id:7,
     nombre:"RYZEN 7 5700",
-    precio:5445454,
+    precio:733082,
     imagen:"ryzen7.jpg",
     descripcion:" Nùcleos: 8 / Hilos: 16 / Socket: AM4 / Velocidad: 3,0 GHz Max: 4,1 GHz / 105W / Arquitectura: zen3 / 3D V-Cache ",
-    stock:true
+    stock:true,
+    link:"https://mpago.li/2PnxRhq"
 },
 {
     id:8,
