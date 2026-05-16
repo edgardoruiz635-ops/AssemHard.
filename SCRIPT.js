@@ -68,10 +68,11 @@ const productos = [
 {
     id:8,
     nombre:"RYZEN 7 7700x",
-    precio:1139320,
+    precio:1090750,
     imagen:"ryzen7.jpg",
     descripcion:" Nùcleos: 8 / Hilos: 16 / Socket: AM5 / Velocidad: 4,5 GHz Max: 5,4 GHz / 105W / Arquitectura: zen4 / Gráficos Integrados Radeon ",
-    stock:true
+    stock:true,
+    link:"https://mpago.li/2GbJ9De"
 },
 {
     id:9,
