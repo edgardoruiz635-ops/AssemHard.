@@ -8,7 +8,7 @@ const productos = [
     precio:800000,
     imagen:"r5 5600GT.png",
     descripcion:" Nùcleos: 6 / Hilos: 12 / Socket: AM4 / Velocidad: 3,6 GHz Max: 4,6 GHz / 65W / Arquitectura: zen3 / Gráficos Integrados Radeon Vega 7 ",
-    stock:true
+    stock:true,
     link:"https://mpago.li/2PgsXuC"
 },
 {
