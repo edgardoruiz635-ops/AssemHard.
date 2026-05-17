@@ -772,7 +772,17 @@ const productos = [
     imagen:"XXX79.jpg",
     descripcion:" Torre Profesional / Ryzen 9 / RTX 5080 / 64GB RAM DDR5 / SSD 2TB / Edición y Streaming ",
     stock:true
+},
+    {
+    id:96,
+    nombre:"RYZEN 7 8700G",
+    precio:14999990,
+    imagen:"ryzen/r7 8700G.png",
+    descripcion:" Nùcleos: 8 / Hilos: 16 / Socket: AM5 / Velocidad: 4,23 GHz Max: 5,1 GHz / 65W / Arquitectura: zen4 / Gráficos Integrados Radeon 780M ",
+    stock:true,
+    link:"https://mpago.li/13SAsZX"
 }
+
 
 ];
 
