@@ -6,7 +6,7 @@ const productos = [
     id:1,
     nombre:"RYZEN 5 5600GT",
     precio:800000,
-    imagen:"r5 5600GT.png",
+    imagen:"ryzen/r5 5600GT.png",
     descripcion:" Nùcleos: 6 / Hilos: 12 / Socket: AM4 / Velocidad: 3,6 GHz Max: 4,6 GHz / 65W / Arquitectura: zen3 / Gráficos Integrados Radeon Vega 7 ",
     stock:true,
     link:"https://mpago.li/2PgsXuC"
@@ -15,7 +15,7 @@ const productos = [
     id:2,
     nombre:"RYZEN 5 5600",
     precio:652214,
-    imagen:"ryzen5.jpg",
+    imagen:"ryzen/r5 5600.png",
     descripcion:" Nùcleos: 6 / Hilos: 12 / Socket: AM4 / Velocidad: 3,5 GHz Max: 4,4 GHz / 65W / Arquitectura: zen3 ",
     stock:true,
     link:"https://mpago.li/1GW85ma"
@@ -24,7 +24,7 @@ const productos = [
     id:3,
     nombre:"RYZEN 5 7600x",
     precio:751008,
-    imagen:"ryzen5.jpg",
+    imagen:"ryzen/r5 7600x.png",
     descripcion:" Nùcleos: 6 / Hilos: 12 / Socket: AM5 / Velocidad: 3,8 GHz Max: 5,1 GHz / 65W / Arquitectura: zen4 / Gráficos Integrados Radeon ",
     stock:true,
     link:"https://mpago.li/2biG5jD"
@@ -33,7 +33,7 @@ const productos = [
     id:4,
     nombre:"RYZEN 5 8600G",
     precio:853824,
-    imagen:"ryzen5.jpg",
+    imagen:"ryzen/r5 8600G.png",
     descripcion:" Nùcleos: 6 / Hilos: 12 / Socket: AM5 / Velocidad: 4,3 GHz Max: 5,0 GHz / 65W / Arquitectura: zen4 / Gráficos Integrados Radeon 760M ",
     stock:true,
     link:"https://mpago.li/1yr24pj"
@@ -42,7 +42,7 @@ const productos = [
     id:5,
     nombre:"RYZEN 5 9600x",
     precio:804204,
-    imagen:"ryzen5.jpg",
+    imagen:"ryzen/r5 9600X.png",
     descripcion:" Nùcleos: 6 / Hilos: 12 / Socket: AM5 / Velocidad: 3,9 GHz Max: 5,4 GHz / 65W / Arquitectura: zen5 ",
     stock:true,
     link:"https://mpago.li/33rbfSy"
@@ -51,7 +51,7 @@ const productos = [
     id:6,
     nombre:"RYZEN 7 5700G",
     precio:930445,
-    imagen:"ryzen7.jpg",
+    imagen:"ryzen/r7 5700G.png",
     descripcion:" Nùcleos: 8 / Hilos: 16 / Socket: AM4 / Velocidad: 3,8 GHz Max: 4,6 GHz / 65W / Arquitectura: zen3 / Gráficos Integrados Radeon Vega 8 ",
     stock:true,
     link:"https://mpago.li/1HuT6L5"
@@ -60,7 +60,7 @@ const productos = [
     id:7,
     nombre:"RYZEN 7 5700",
     precio:733082,
-    imagen:"ryzen7.jpg",
+    imagen:"ryzen/r7 5700G.png",
     descripcion:" Nùcleos: 8 / Hilos: 16 / Socket: AM4 / Velocidad: 3,0 GHz Max: 4,1 GHz / 105W / Arquitectura: zen3 / 3D V-Cache ",
     stock:true,
     link:"https://mpago.li/2PnxRhq"
@@ -69,7 +69,7 @@ const productos = [
     id:8,
     nombre:"RYZEN 7 7700x",
     precio:1090750,
-    imagen:"ryzen7.jpg",
+    imagen:"ryzen/r7 7700x.png",
     descripcion:" Nùcleos: 8 / Hilos: 16 / Socket: AM5 / Velocidad: 4,5 GHz Max: 5,4 GHz / 105W / Arquitectura: zen4 / Gráficos Integrados Radeon ",
     stock:true,
     link:"https://mpago.li/2GbJ9De"
@@ -78,7 +78,7 @@ const productos = [
     id:9,
     nombre:"RYZEN 7 7800x3D",
     precio:2350000,
-    imagen:"ryzen7.jpg",
+    imagen:"ryzen/r7 7800x3D.png",
     descripcion:" Nùcleos: 8 / Hilos: 16 / Socket: AM5 / Velocidad: 4,2 GHz Max: 5,0 GHz / 120W / Arquitectura: zen4 / 3D V-Cache ",
     stock:true,
     link:"https://mpago.li/2sTaVSy"
@@ -87,7 +87,7 @@ const productos = [
     id:10,
     nombre:"RYZEN 7 9800x3D",
     precio:2442825,
-    imagen:"ryzen7.jpg",
+    imagen:"ryzen/r7 9800x3D.png",
     descripcion:" Nùcleos: 8 / Hilos: 16 / Socket: AM5 / Velocidad: 4,7 GHz Max: 5,2 GHz / 120W / Arquitectura: zen5 / 3D V-Cache ",
     stock:true,
     link:"https://mpago.li/2wKmezZ"
@@ -96,7 +96,7 @@ const productos = [
     id:11,
     nombre:"RYZEN 9 9900x",
     precio:2244823,
-    imagen:"ryzen9.jpg",
+    imagen:"ryzen/r9 9900x.png",
     descripcion:" Nùcleos: 12 / Hilos: 24 / Socket: AM5 / Velocidad: 4,4 GHz Max: 5,6 GHz / 120W / Arquitectura: zen5 ",
     stock:true,
     link:"https://mpago.li/15srzy5"
@@ -105,7 +105,7 @@ const productos = [
     id:12,
     nombre:"RYZEN 9 9900x3D",
     precio:2454187,
-    imagen:"ryzen9.jpg",
+    imagen:"ryzen/r9 9900x3D.png",
     descripcion:" Nùcleos: 12 / Hilos: 24 / Socket: AM5 / Velocidad: 4,4 GHz Max: 5,5 GHz / 120W / Arquitectura: zen5 / 3D V-Cache ",
     stock:true,
     link:"https://mpago.li/2wpU4Nm"
