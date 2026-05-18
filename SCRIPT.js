@@ -786,7 +786,7 @@ const productos = [
     id:97,
     nombre:" INTEL i3 12-100",
     precio:1076300,
-    imagen:"i3 12100.png",
+    imagen:"intel/i3 12100.png",
     descripcion:" Núcleos: 4 / Hilos: 8 / Socket: LGA1700 / Velocidad: 3,3 GHz Max: 4,3 GHz / 60W / Arquitectura: Alder Lake / Gráficos UHD 730",
     stock:true,
     link:"https://mpago.li/23zmVbB"
