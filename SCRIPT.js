@@ -113,32 +113,35 @@ const productos = [
 {
     id:13,
     nombre:"MSI MAG B550 TOMAHAWK MAX WIFI",
-    precio:814331,
-    imagen:"XXX.jpg",
-    descripcion:" AM4 / DDR4 / PCIe 4.0 / SATA 6GB/s / M.2 2 slots / USB 3.2 GEN 2 / HDMI/DP / ATX / WIFI 6E / compatible : RYZEN SERIE 3000, 5000 ",
-    stock:true
+    precio:707395,
+    imagen:"boar/b1.png",
+    descripcion:" Chipset: B550 / Socket: AM4 / Formato: ATX / RAM DDR4 hasta 128GB / PCIe 4.0 / 2x M.2 / Wi-Fi + Bluetooth / LAN 2.5G / compatible : RYZEN SERIE 3000, 5000 ",
+    stock:true,
+    link:"https://mpago.li/1z7WmMA"
 },
 {
     id:14,
     nombre:"GIGABYTE B650 AORUS Elite AX",
-    precio:770354,
-    imagen:"XXX2.jpg",
-    descripcion:" AM5 / DDR5 / PCIe 5.0 SSD + PCIe 4.0 GPU / SATA 6GB/s / M.2 3 slots / USB 3.2 GEN 2 / HDMI/DP / ATX / WIFI 6E / compatible : RYZEN SERIE 7000, 9000 ",
-    stock:true
+    precio:669879,
+    imagen:"boar/b2.png",
+    descripcion:" Chipset: B650 / Socket: AM5 / Formato: ATX / RAM DDR5 hasta 192GB / PCIe 5.0 / 3x M.2 / Wi-Fi 6E + Bluetooth 5.3 / LAN 2.5G / compatible : RYZEN SERIE 7000, 9000 ",
+    stock:true,
+    link:"https://mpago.li/312jfhX"
 },
 {
     id:15,
     nombre:"MSI MAG B650 Tomahawk WiFi",
-    precio:820335,
-    imagen:"XXX3.jpg",
-    descripcion:"AM5 / DDR5 / PCIe 4.0 x16 / 6x SATA 6Gb/s / M.2 3 slots / USB 3.2 Gen 2 + USB-C 20Gbps / HDMI 2.1 + DP / ATX / WIFI 6E / RYZEN SERIE 7000, 9000 ",
-    stock:true
+    precio:782427,
+    imagen:"boar/b3.png",
+    descripcion:" Chipset: B650 / Socket: AM5 / Formato: ATX / RAM DDR5 hasta 192GB / PCIe 4.0 / 3x M.2 / Wi-Fi 6E + Bluetooth 5.2 / LAN 2.5G / RYZEN SERIE 7000, 9000 ",
+    stock:true,
+    link:"https://mpago.li/2QtdXDY"
 },
 {
     id:16,
     nombre:"MSI MPG B550 GAMING PLUS",
     precio:745288,
-    imagen:"XXX4.jpg",
+    imagen:"boar/b4.png",
     descripcion:"AM5 / DDR5",
     stock:true
 },
@@ -146,7 +149,7 @@ const productos = [
     id:17,
     nombre:"ASUS TUF GAMING B650-PLUS",
     precio:722812,
-    imagen:"XXX5.jpg",
+    imagen:"boar/b5.png",
     descripcion:"AM5 / DDR5",
     stock:true
 },
@@ -154,7 +157,7 @@ const productos = [
     id:18,
     nombre:"ASUS PRIME Z890-P WiFi",
     precio:1070240,
-    imagen:"XXX6.jpg",
+    imagen:"boar/b6.png",
     descripcion:"AM5 / DDR5",
     stock:true
 },
@@ -162,7 +165,7 @@ const productos = [
     id:19,
     nombre:"ASUS ROG STRIX Z890-A GAMING WIFI",
     precio:1319395,
-    imagen:"XXX7.jpg",
+    imagen:"boar/b7.png",
     descripcion:"AM5 / DDR5",
     stock:true
 },
@@ -170,7 +173,7 @@ const productos = [
     id:20,
     nombre:"ASROCK B850M-X",
     precio:595195,
-    imagen:"XXX8.jpg",
+    imagen:"boar/b8.png",
     descripcion:"AM5 / DDR5",
     stock:true
 },
@@ -178,7 +181,7 @@ const productos = [
     id:21,
     nombre:"MSI B650 GAMING PLUS WiFi",
     precio:857708,
-    imagen:"XXX9.jpg",
+    imagen:"boar/b9.png",
     descripcion:"AM5 / DDR5",
     stock:true
 },
@@ -186,7 +189,7 @@ const productos = [
     id:22,
     nombre:"GIGABYTE B650 GAMING X AX",
     precio:955456,
-    imagen:"XXX10.jpg",
+    imagen:"boar/b10.png",
     descripcion:"AM5 / DDR5",
     stock:true
 },
@@ -194,7 +197,7 @@ const productos = [
     id:23,
     nombre:"ASUS ROG STRIX B850-F GAMING WiFi",
     precio:1173091,
-    imagen:"XXX11.jpg",
+    imagen:"boar/b11.png",
     descripcion:"AM5 / DDR5",
     stock:true
 },
@@ -202,7 +205,7 @@ const productos = [
     id:24,
     nombre:"MSI X870E Gaming Plus WiFi",
     precio:970428,
-    imagen:"XXX12.jpg",
+    imagen:"boar/b12.png",
     descripcion:"AM5 / DDR5",
     stock:true
 },
