@@ -784,7 +784,7 @@ const productos = [
 },
     {
     id:97,
-    nombre:" INTEL i3 12-100",
+    nombre:" INTEL i3-12100",
     precio:1076300,
     imagen:"intel/i3 12100.png",
     descripcion:" Núcleos: 4 / Hilos: 8 / Socket: LGA1700 / Velocidad: 3,3 GHz Max: 4,3 GHz / 60W / Arquitectura: Alder Lake / Gráficos UHD 730",
@@ -793,19 +793,21 @@ const productos = [
 },
 {
     id:98,
-    nombre:"Hbada Office Ergonomic Chair",
-    precio:2648686,
-    imagen:"XXX73.jpg",
-    descripcion:" Silla de Oficina / Diseño ergonómico / Reposabrazos abatibles / Respaldo transpirable / Ajuste de altura ",
-    stock:true
+    nombre:" INTEL i5-12400F ",
+    precio:669701,
+    imagen:"intel/i5 12400f.png",
+    descripcion:" Núcleos: 6 / Hilos: 12 / Socket: LGA1700 / Velocidad: 2,5 GHz Max: 4,4 GHz / 65W / Arquitectura: Alder Lake / Sin gráficos integrados ",
+    stock:true,
+    link:"https://mpago.li/1XcWV3E"
 },
 {
     id:99,
-    nombre:"ASUS ROG Strix G16",
-    precio:7899990,
-    imagen:"XXX74.jpg",
-    descripcion:" Laptop Gamer / Intel Core i7 / RTX 4070 / 16GB RAM DDR5 / SSD 1TB NVMe / Pantalla 16'' 240Hz ",
-    stock:true
+    nombre:" INTEL i5-13600K ",
+    precio:1.424.705,
+    imagen:"intel/i5 13600k.png",
+    descripcion:" Núcleos: 14 / Hilos: 20 / Socket: LGA1700 / Velocidad: 3,5 GHz Max: 5,1 GHz / 125W / Arquitectura: Raptor Lake / Gráficos UHD 770",
+    stock:true,
+    link-"https://mpago.li/1BJP4Qk"
 },
 {
     id:100,
