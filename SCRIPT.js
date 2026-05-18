@@ -140,26 +140,29 @@ const productos = [
 {
     id:16,
     nombre:"MSI MPG B550 GAMING PLUS",
-    precio:745288,
+    precio:603378,
     imagen:"boar/b4.png",
-    descripcion:"AM5 / DDR5",
-    stock:true
+    descripcion:" Chipset: B550 / Socket: AM4 / Formato: ATX / RAM DDR4 hasta 128GB / PCIe 4.0 / 2x M.2 / LAN 1G / Compatible Ryzen 3000, 4000G y 5000",
+    stock:true,
+    link:"https://mpago.li/2Hnug8M"
 },
 {
     id:17,
     nombre:"ASUS TUF GAMING B650-PLUS",
-    precio:722812,
+    precio:720749,
     imagen:"boar/b5.png",
-    descripcion:"AM5 / DDR5",
-    stock:true
+    descripcion:" Chipset: B650 / Socket: AM5 / Formato: ATX / RAM DDR5 hasta 192GB / PCIe 5.0 / 3x M.2 / LAN 2.5G / Compatible Ryzen 7000, 8000G y 9000",
+    stock:true,
+    link:"https://mpago.li/26m7VjC"
 },
 {
     id:18,
     nombre:"ASUS PRIME Z890-P WiFi",
-    precio:1070240,
+    precio:1013684,
     imagen:"boar/b6.png",
-    descripcion:"AM5 / DDR5",
-    stock:true
+    descripcion:" Chipset: Z890 / Socket: LGA1851 / Formato: ATX / RAM DDR5 hasta 256GB / PCIe 5.0 / 4x M.2 / Wi-Fi 7 + Bluetooth 5.4 / LAN 2.5G / Compatible Intel Core Ultra Series 2",
+    stock:true,
+    link:"https://mpago.li/24DRuBR"
 },
 {
     id:19,
