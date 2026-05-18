@@ -847,20 +847,21 @@ const productos = [
 },
 {
     id:104,
-    nombre:"AssemHard Creator Workstation",
-    precio:14999990,
-    imagen:"XXX79.jpg",
-    descripcion:" Torre Profesional / Ryzen 9 / RTX 5080 / 64GB RAM DDR5 / SSD 2TB / Edición y Streaming ",
-    stock:true
+    nombre:" INTEL i9-12900KF ",
+    precio:1558646,
+    imagen:"intel/i9 12900kf.png",
+    descripcion:" Núcleos: 16 / Hilos: 24 / Socket: LGA1700 / Velocidad: 3,2 GHz Max: 5,2 GHz / 125W / Arquitectura: Alder Lake / Sin gráficos integrados",
+    stock:true,
+    link:"https://mpago.li/2BJoE51"
 },
     {
     id:105,
-    nombre:"RYZEN 7 8700G",
-    precio:1193566,
-    imagen:"ryzen/r7 8700G.png",
-    descripcion:" Nùcleos: 8 / Hilos: 16 / Socket: AM5 / Velocidad: 4,23 GHz Max: 5,1 GHz / 65W / Arquitectura: zen4 / Gráficos Integrados Radeon 780M ",
+    nombre:" INTEL CORE ULTRA 9 285K ",
+    precio:2479613,
+    imagen:"intel/core 9 285k.png",
+    descripcion:" Núcleos: 24 / Hilos: 24 / Socket: LGA1851 / Velocidad: 3,7 GHz Max: 5,7 GHz / 125W / Arquitectura: Arrow Lake / Gráficos Intel Arc ",
     stock:true,
-    link:"https://mpago.li/13SAsZX"
+    link:"https://mpago.li/2Kmvp1c"
 }
 
 
