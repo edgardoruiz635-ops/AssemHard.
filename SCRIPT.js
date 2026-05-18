@@ -811,11 +811,12 @@ const productos = [
 },
 {
     id:100,
-    nombre:"MSI Katana 15",
-    precio:6499990,
-    imagen:"XXX75.jpg",
-    descripcion:" Laptop Gamer / Intel Core i7 / RTX 4060 / 16GB RAM / SSD 1TB / Pantalla Full HD 144Hz ",
-    stock:true
+    nombre:"INTEL CORE ULTRA 5 245K ",
+    precio:803865,
+    imagen:"intel/core 5 245k.png",
+    descripcion:" Núcleos: 14 (6P + 8E) / Hilos: 14 / Socket: LGA1851 / Velocidad: 4,2 GHz Max: 5,2 GHz / 125W / Arquitectura: Arrow Lake / Gráficos Intel Graphics",
+    stock:true,
+    link:"https://mpago.li/26tqi29"
 },
 {
     id:101,
