@@ -803,7 +803,7 @@ const productos = [
 {
     id:99,
     nombre:" INTEL i5-13600K ",
-    precio:1.424.705,
+    precio:1424705,
     imagen:"intel/i5 13600k.png",
     descripcion:" Núcleos: 14 / Hilos: 20 / Socket: LGA1700 / Velocidad: 3,5 GHz Max: 5,1 GHz / 125W / Arquitectura: Raptor Lake / Gráficos UHD 770",
     stock:true,
