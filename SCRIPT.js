@@ -820,19 +820,21 @@ const productos = [
 },
 {
     id:101,
-    nombre:"Lenovo Legion Pro 5",
-    precio:8699990,
-    imagen:"XXX76.jpg",
-    descripcion:" Laptop Gamer / Ryzen 7 / RTX 4070 / 32GB RAM DDR5 / SSD 1TB / Pantalla 16'' 165Hz ",
-    stock:true
+    nombre:" INTEL i7-12700kf ",
+    precio:1174601,
+    imagen:"intel/i7 12700kf.png",
+    descripcion:" Núcleos: 12 / Hilos: 20 / Socket: LGA1700 / Velocidad: 3,6 GHz Max: 5,0 GHz / 125W / Arquitectura: Alder Lake / Sin gráficos integrados",
+    stock:true,
+    link:"https://mpago.li/1HK393F"
 },
 {
     id:102,
-    nombre:"AssemHard Starter Gaming PC",
-    precio:4599990,
-    imagen:"XXX77.jpg",
-    descripcion:" Torre Gamer / Ryzen 5 / RTX 4060 / 16GB RAM / SSD NVMe 1TB / RGB / Ideal gaming Full HD ",
-    stock:true
+    nombre:" INTEL i7-14700K ",
+    precio:1648014,
+    imagen:"intel/i7 14700k.png",
+    descripcion:" Núcleos: 20 / Hilos: 28 / Socket: LGA1700 / Velocidad: 3,4 GHz Max: 5,6 GHz / 125W / Arquitectura: Raptor Lake Refresh / Gráficos UHD 770",
+    stock:true,
+    link:"https://mpago.li/2FsgwbZ"
 },
 {
     id:103,
