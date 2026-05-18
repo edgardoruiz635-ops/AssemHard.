@@ -868,6 +868,15 @@ const productos = [
     descripcion:" Núcleos: 24 / Hilos: 24 / Socket: LGA1851 / Velocidad: 3,7 GHz Max: 5,7 GHz / 125W / Arquitectura: Arrow Lake / Gráficos Intel Arc ",
     stock:true,
     link:"https://mpago.li/2Kmvp1c"
+},
+    {
+    id:106,
+    nombre:" ASUS TUF GAMING Z790-PLUS WIFI ",
+    precio:826240,
+    imagen:"",
+    descripcion:" Chipset: Z790 / Socket: LGA1700 / Formato: ATX / RAM DDR5 hasta 192GB / PCIe 5.0 / 4x M.2 / Wi-Fi 6 + Bluetooth / LAN 2.5G / Compatible Intel Core i 12th, 13th y 14th Gen ",
+    stock:true,
+    link:"https://mpago.li/2NDhUKd"
 }
 
 
