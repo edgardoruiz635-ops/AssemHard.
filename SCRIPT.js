@@ -838,11 +838,12 @@ const productos = [
 },
 {
     id:103,
-    nombre:"AssemHard Ultra Gaming PC",
-    precio:9899990,
-    imagen:"XXX78.jpg",
-    descripcion:" Torre Gamer / Ryzen 7 / RTX 5070 Ti / 32GB RAM DDR5 / SSD NVMe 2TB / Refrigeración líquida ",
-    stock:true
+    nombre:" INTEL CORE ULTRA 7 265KF ",
+    precio:1251686,
+    imagen:"intel/core 7 265kf.png",
+    descripcion:" Núcleos: 20 / Hilos: 20 / Socket: LGA1851 / Velocidad: 3,9 GHz Max: 5,5 GHz / 125W / Arquitectura: Arrow Lake / Sin gráficos integrados ",
+    stock:true,
+    link:"https://mpago.li/2vhaszg"
 },
 {
     id:104,
