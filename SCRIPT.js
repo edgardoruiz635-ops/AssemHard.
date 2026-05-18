@@ -781,6 +781,80 @@ const productos = [
     descripcion:" Nùcleos: 8 / Hilos: 16 / Socket: AM5 / Velocidad: 4,23 GHz Max: 5,1 GHz / 65W / Arquitectura: zen4 / Gráficos Integrados Radeon 780M ",
     stock:true,
     link:"https://mpago.li/13SAsZX"
+},
+    {
+    id:97,
+    nombre:" INTEL i3 12-100",
+    precio:1076300,
+    imagen:"i3 12100.png",
+    descripcion:"",
+    stock:true,
+    link:"https://mpago.li/23zmVbB"
+},
+{
+    id:98,
+    nombre:"Hbada Office Ergonomic Chair",
+    precio:2648686,
+    imagen:"XXX73.jpg",
+    descripcion:" Silla de Oficina / Diseño ergonómico / Reposabrazos abatibles / Respaldo transpirable / Ajuste de altura ",
+    stock:true
+},
+{
+    id:99,
+    nombre:"ASUS ROG Strix G16",
+    precio:7899990,
+    imagen:"XXX74.jpg",
+    descripcion:" Laptop Gamer / Intel Core i7 / RTX 4070 / 16GB RAM DDR5 / SSD 1TB NVMe / Pantalla 16'' 240Hz ",
+    stock:true
+},
+{
+    id:100,
+    nombre:"MSI Katana 15",
+    precio:6499990,
+    imagen:"XXX75.jpg",
+    descripcion:" Laptop Gamer / Intel Core i7 / RTX 4060 / 16GB RAM / SSD 1TB / Pantalla Full HD 144Hz ",
+    stock:true
+},
+{
+    id:101,
+    nombre:"Lenovo Legion Pro 5",
+    precio:8699990,
+    imagen:"XXX76.jpg",
+    descripcion:" Laptop Gamer / Ryzen 7 / RTX 4070 / 32GB RAM DDR5 / SSD 1TB / Pantalla 16'' 165Hz ",
+    stock:true
+},
+{
+    id:102,
+    nombre:"AssemHard Starter Gaming PC",
+    precio:4599990,
+    imagen:"XXX77.jpg",
+    descripcion:" Torre Gamer / Ryzen 5 / RTX 4060 / 16GB RAM / SSD NVMe 1TB / RGB / Ideal gaming Full HD ",
+    stock:true
+},
+{
+    id:103,
+    nombre:"AssemHard Ultra Gaming PC",
+    precio:9899990,
+    imagen:"XXX78.jpg",
+    descripcion:" Torre Gamer / Ryzen 7 / RTX 5070 Ti / 32GB RAM DDR5 / SSD NVMe 2TB / Refrigeración líquida ",
+    stock:true
+},
+{
+    id:104,
+    nombre:"AssemHard Creator Workstation",
+    precio:14999990,
+    imagen:"XXX79.jpg",
+    descripcion:" Torre Profesional / Ryzen 9 / RTX 5080 / 64GB RAM DDR5 / SSD 2TB / Edición y Streaming ",
+    stock:true
+},
+    {
+    id:105,
+    nombre:"RYZEN 7 8700G",
+    precio:1193566,
+    imagen:"ryzen/r7 8700G.png",
+    descripcion:" Nùcleos: 8 / Hilos: 16 / Socket: AM5 / Velocidad: 4,23 GHz Max: 5,1 GHz / 65W / Arquitectura: zen4 / Gráficos Integrados Radeon 780M ",
+    stock:true,
+    link:"https://mpago.li/13SAsZX"
 }
 
 
