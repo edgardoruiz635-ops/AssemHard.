@@ -167,50 +167,57 @@ const productos = [
 {
     id:19,
     nombre:"ASUS ROG STRIX Z890-A GAMING WIFI",
-    precio:1319395,
+    precio:1294919,
     imagen:"boar/b7.png",
-    descripcion:"AM5 / DDR5",
-    stock:true
+    descripcion:" Chipset: Z890 / Socket: LGA1851 / Formato: ATX / RAM DDR5 hasta 256GB / PCIe 5.0 / 5x M.2 / Wi-Fi 7 + Bluetooth 5.4 / LAN 2.5G / Compatible Intel Core Ultra Series 2",
+    stock:true,
+    link:"https://mpago.li/2WxLk9M"
 },
 {
     id:20,
     nombre:"ASROCK B850M-X",
-    precio:595195,
+    precio:580556,
     imagen:"boar/b8.png",
-    descripcion:"AM5 / DDR5",
-    stock:true
+    descripcion:" Chipset: B850 / Socket: AM5 / Formato: Micro-ATX / RAM DDR5 hasta 192GB / PCIe 5.0 / 2x M.2 / LAN 2.5G / Compatible Ryzen 7000, 8000G y 9000",
+    stock:true,
+    link:"https://mpago.li/2jF74BW"
 },
 {
     id:21,
     nombre:"MSI B650 GAMING PLUS WiFi",
-    precio:857708,
+    precio:848348,
     imagen:"boar/b9.png",
-    descripcion:"AM5 / DDR5",
-    stock:true
+    descripcion:" Chipset: B650 / Socket: AM5 / Formato: ATX / RAM DDR5 hasta 256GB / PCIe 4.0 / 2x M.2 / Wi-Fi 6E + Bluetooth 5.3 / LAN 2.5G / Compatible Ryzen 7000, 8000G y 9000",
+    stock:true,
+    link:"https://mpago.li/192tPJ2"
 },
 {
     id:22,
     nombre:"GIGABYTE B650 GAMING X AX",
-    precio:955456,
+    precio:875368,
     imagen:"boar/b10.png",
-    descripcion:"AM5 / DDR5",
-    stock:true
+    descripcion:" Chipset: B650 / Socket: AM5 / Formato: ATX / RAM DDR5 hasta 192GB / PCIe 4.0 / 3x M.2 / Wi-Fi 6E + Bluetooth 5.3 / LAN 2.5G / Compatible Ryzen 7000, 8000G y 9000",
+    stock:true,
+    link:"https://mpago.li/2eqAUmC"
 },
 {
     id:23,
     nombre:"ASUS ROG STRIX B850-F GAMING WiFi",
-    precio:1173091,
+    precio:1134405,
     imagen:"boar/b11.png",
-    descripcion:"AM5 / DDR5",
-    stock:true
+    descripcion:" Chipset: B850 / Socket: AM5 / Formato: ATX / RAM DDR5 hasta 256GB / PCIe 5.0 / 4x M.2 / Wi-Fi 7 + Bluetooth 5.4 / LAN 2.5G / Compatible Ryzen 7000, 8000G y 9000",
+    stock:true,
+    link:"https://mpago.li/15JNNp4"
 },
 {
     id:24,
     nombre:"MSI X870E Gaming Plus WiFi",
-    precio:970428,
+    precio:893187,
     imagen:"boar/b12.png",
-    descripcion:"AM5 / DDR5",
-    stock:true
+    descripcion:" Chipset: X870E / Socket: AM5 / Formato: ATX / RAM DDR5 hasta 256GB / PCIe 5.0 / 4x M.2 / Wi-Fi 7 + Bluetooth 5.4 / LAN 5G / Compatible Ryzen 7000, 8000G y 9000",
+    stock:true,
+    link:"https://mpago.li/26RqXJk"
+    
 },
 {
     id:25,
