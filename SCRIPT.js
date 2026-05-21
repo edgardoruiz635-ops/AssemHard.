@@ -403,7 +403,7 @@ const productos = [
     id:46,
     nombre:"CORSAIR RM1000x ATX 3.1 PCIe 5.1 Ready modular 1000W",
     precio:820335,
-    imagen:"XXX30.jpg",
+    imagen:"fue/f1.png",
     descripcion:"1000W / 80 Plus Gold / Modular / PCIe 5.1 / ATX 3.1",
     stock:true
 },
@@ -411,7 +411,7 @@ const productos = [
     id:47,
     nombre:"CORSAIR RM750e ATX 3.1 PCIe 5.1 Ready modular 750W",
     precio:895381,
-    imagen:"XXX31.jpg",
+    imagen:"fue/f2.png",
     descripcion:"750W / 80 Plus Gold / Modular / PCIe 5.1 / ATX 3.1",
     stock:true
 },
@@ -419,7 +419,7 @@ const productos = [
     id:48,
     nombre:"MSI MAG A650BE, semimodular ATX de 650 W",
     precio:501387,
-    imagen:"XXX32.jpg",
+    imagen:"fue/f3.png",
     descripcion:"650W / 80 Plus Bronze / Semi Modular / ATX",
     stock:true
 },
@@ -427,7 +427,7 @@ const productos = [
     id:49,
     nombre:"MSI MAG A1200PLS PCIE5, modular de 1200 W",
     precio:1120501,
-    imagen:"XXX33.jpg",
+    imagen:"fue/f4.png",
     descripcion:"1200W / 80 Plus Platinum / Modular / PCIe 5.0",
     stock:true
 },
@@ -435,7 +435,7 @@ const productos = [
     id:50,
     nombre:"ORA PRO G1, ATX modular de 850 W",
     precio:632718,
-    imagen:"XXX34.jpg",
+    imagen:"fue/f5.png",
     descripcion:"850W / 80 Plus Gold / Modular / ATX",
     stock:true
 },
@@ -443,7 +443,7 @@ const productos = [
     id:51,
     nombre:"ORA PRO G1, ATX modular de 1000 W",
     precio:670242,
-    imagen:"XXX35.jpg",
+    imagen:"fue/f6.png",
     descripcion:"1000W / 80 Plus Gold / Modular / ATX",
     stock:true
 },
