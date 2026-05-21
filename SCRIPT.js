@@ -116,7 +116,7 @@ const productos = [
     precio:707395,
     imagen:"boar/b1.png",
     descripcion:" Chipset: B550 / Socket: AM4 / Formato: ATX / RAM DDR4 hasta 128GB / PCIe 4.0 / 2x M.2 / Wi-Fi + Bluetooth / LAN 2.5G / compatible : RYZEN SERIE 3000, 5000 ",
-    stock:true,
+    stock:false,
     link:"https://mpago.li/1z7WmMA"
 },
 {
@@ -934,8 +934,9 @@ Características
 </button>
 
 <button class="buy-btn"
-onclick="irFormulario(${producto.id})">
-Comprar
+${!producto.stock ? 'disabled' : ''}
+onclick="${producto.stock ? `irFormulario(${producto.id})` : ''}">
+${producto.stock ? 'Comprar' : 'Sin stock'}
 </button>
 
 </div>
