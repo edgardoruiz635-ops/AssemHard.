@@ -331,7 +331,7 @@ const productos = [
     id:37,
     nombre:"Kingston NV3 500GB M.2 NVMe SSD",
     precio:698234,
-    imagen:"XXX21.jpg",
+    imagen:"alma/a1.png",
     descripcion:"500GB / M.2 NVMe / PCIe 4.0 / 5000MB/s Lectura",
     stock:true
 },
@@ -339,7 +339,7 @@ const productos = [
     id:38,
     nombre:"WD Blue SN5100 1TB M.2 NVMe SSD",
     precio:932942,
-    imagen:"XXX22.jpg",
+    imagen:"alma/a2.png",
     descripcion:"1TB / M.2 NVMe / PCIe 4.0 / 5150MB/s Lectura",
     stock:true
 },
@@ -347,7 +347,7 @@ const productos = [
     id:39,
     nombre:"Samsung 990 PRO 2TB M.2 NVMe SSD",
     precio:1833464,
-    imagen:"XXX23.jpg",
+    imagen:"alma/a3.png",
     descripcion:"2TB / M.2 NVMe / PCIe 4.0 / 7450MB/s Lectura",
     stock:true
 },
@@ -355,7 +355,7 @@ const productos = [
     id:40,
     nombre:"Kingston 480GB A400 SATA 3 2.5",
     precio:629003,
-    imagen:"XXX24.jpg",
+    imagen:"alma/a4.png",
     descripcion:"480GB / SATA III / 2.5 Pulgadas / 500MB/s Lectura",
     stock:true
 },
@@ -363,7 +363,7 @@ const productos = [
     id:41,
     nombre:"Crucial BX500 1TB 3D NAND SATA SSD interno de 2.5",
     precio:895381,
-    imagen:"XXX25.jpg",
+    imagen:"alma/a5.png",
     descripcion:"1TB / SATA III / 2.5 Pulgadas / 540MB/s Lectura",
     stock:true
 },
@@ -371,7 +371,7 @@ const productos = [
     id:42,
     nombre:"Samsung Electronics 870 EVO 2TB 2.5",
     precio:2702804,
-    imagen:"XXX26.jpg",
+    imagen:"alma/a6.png",
     descripcion:"2TB / SATA III / 2.5 Pulgadas / 560MB/s Lectura",
     stock:true
 },
@@ -379,7 +379,7 @@ const productos = [
     id:43,
     nombre:"Seagate BarraCuda - Disco duro interno de 8 TB",
     precio:1189789,
-    imagen:"XXX27.jpg",
+    imagen:"alma/a7.png",
     descripcion:"8TB / HDD / 7200RPM / SATA III / 256MB Cache",
     stock:true
 },
@@ -387,7 +387,7 @@ const productos = [
     id:44,
     nombre:"Western Digital - Disco duro interno WD Blue de 4 TB",
     precio:670242,
-    imagen:"XXX28.jpg",
+    imagen:"alma/a8.png",
     descripcion:"4TB / HDD / 5400RPM / SATA III / 256MB Cache",
     stock:true
 },
@@ -395,7 +395,7 @@ const productos = [
     id:45,
     nombre:"Western Digital (WD) BLUE Desktop 1TB",
     precio:550205,
-    imagen:"XXX29.jpg",
+    imagen:"alma/a9.png",
     descripcion:"1TB / HDD / 7200RPM / SATA III / 64MB Cache",
     stock:true
 },
