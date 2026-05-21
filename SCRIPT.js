@@ -276,50 +276,56 @@ const productos = [
 {
     id:31,
     nombre:"CORSAIR VENGEANCE RGB PRO 16 GB (2 x 8 GB)",
-    precio:824087,
+    precio:714091,
     imagen:"ram/r7.png",
-    descripcion:"16GB (2x8GB) / DDR4 / RGB / 3200MHz / CL16",
-    stock:true
+    descripcion:" DDR4 / 16GB (2x8GB) / 3200MHz / CL16 / RGB / Intel XMP / Compatible AMD AM4 e Intel LGA1200-LGA1700",
+    stock:true,
+    link:"https://mpago.li/11V4YgJ"
 },
 {
     id:32,
     nombre:"CORSAIR Vengeance LPX 16 GB (2 x 8 GB)",
-    precio:782811,
+    precio:665122,
     imagen:"ram/r8.png",
-    descripcion:"16GB (2x8GB) / DDR4 / Low Profile / 3200MHz / CL16",
-    stock:true
+    descripcion:" DDR4 / 16GB (2x8GB) / 3200MHz / CL16 / Intel XMP 2.0 / Low Profile / Compatible AMD AM4 e Intel LGA1200-LGA1700",
+    stock:true,
+    link:"https://mpago.li/27mX2AA"
 },
 {
     id:33,
     nombre:"CORSAIR Vengeance LPX 32 GB (2 x 16 GB)",
-    precio:1270614,
+    precio:1108684,
     imagen:"ram/r9.png",
-    descripcion:"32GB (2x16GB) / DDR4 / Low Profile / 3600MHz / CL18",
-    stock:true
+    descripcion:" DDR4 / 32GB (2x16GB) / 3600MHz / CL18 / Intel XMP 2.0 / Low Profile / Compatible AMD AM4 e Intel LGA1200-LGA1700",
+    stock:true,
+    link:"https://mpago.li/2iFpngV"
 },
 {
     id:34,
     nombre:"GIGASTONE Game TURBO Kit de 16 GB (2 x 8 GB)",
-    precio:704013,
+    precio:572151,
     imagen:"ram/r11.png",
-    descripcion:"16GB (2x8GB) / DDR4 / Gaming / 3200MHz / CL16",
-    stock:true
+    descripcion:" DDR4 / 16GB (2x8GB) / 3200MHz / CL16 / Intel XMP 2.0 / No ECC / Compatible AMD AM4 e Intel LGA1200-LGA1700",
+    stock:true,
+    link:"https://mpago.li/2wAyEMW"
 },
 {
     id:35,
     nombre:"GIGASTONE Game TURBO Kit 32GB (2 x 16 GB)",
-    precio:1154292,
+    precio:1104426,
     imagen:"ram/r12.png",
-    descripcion:"32GB (2x16GB) / DDR4 / Gaming / 3600MHz / CL18",
-    stock:true
+    descripcion:" DDR4 RGB / 32GB (2x16GB) / 3200MHz / CL16 / Intel XMP 2.0 / No ECC / Compatible AMD AM4 e Intel LGA1200-LGA1700",
+    stock:true,
+    link:"https://mpago.li/1qxU6Jr"
 },
 {
     id:36,
     nombre:"CORSAIR Vengeance RGB RS 64GB (2 x 32 GB)",
-    precio:34049442,
+    precio:3725880,
     imagen:"ram/r10.png",
-    descripcion:"64GB (2x32GB) / DDR4 / RGB / 3600MHz / CL18",
-    stock:true
+    descripcion:" DDR5 RGB / 64GB (2x32GB) / 5200MHz / CL40 / AMD EXPO + Intel XMP / Compatible AMD AM5 e Intel LGA1700-LGA1851",
+    stock:true,
+    link:"https://mpago.li/18kcCzm"
 },
 {
     id:37,
