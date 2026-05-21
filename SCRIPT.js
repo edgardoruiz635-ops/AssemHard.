@@ -451,7 +451,7 @@ const productos = [
     id:52,
     nombre:"ASUS Dual GeForce RTX™ 5060",
     precio:1545060,
-    imagen:"XXX36.jpg",
+    imagen:"grafi/g1.png",
     descripcion:"8GB GDDR7 / RTX 5060 / DLSS 4 / PCIe 5.0",
     stock:true
 },
@@ -459,7 +459,7 @@ const productos = [
     id:53,
     nombre:"Nvidia Gigabyte Windforce GeForce RTX 40 Series RTX 4060 Ti",
     precio:2310000,
-    imagen:"XXX37.jpg",
+    imagen:"grafi/g2.png",
     descripcion:"16GB GDDR6 / RTX 4060 Ti / DLSS 3 / PCIe 4.0",
     stock:true
 },
@@ -467,7 +467,7 @@ const productos = [
     id:54,
     nombre:"ASUS TUF Gaming GeForce RTX™ 5070 Ti",
     precio:3897245,
-    imagen:"XXX38.jpg",
+    imagen:"grafi/g3.png",
     descripcion:"16GB GDDR7 / RTX 5070 Ti / DLSS 4 / PCIe 5.0",
     stock:true
 },
@@ -475,7 +475,7 @@ const productos = [
     id:55,
     nombre:"GIGABYTE Radeon RX 9060 XT Gaming OC",
     precio:1946034,
-    imagen:"XXX39.jpg",
+    imagen:"grafi/g4.png",
     descripcion:"16GB GDDR6 / RX 9060 XT / PCIe 5.0 / Ray Tracing",
     stock:true
 },
@@ -483,7 +483,7 @@ const productos = [
     id:56,
     nombre:"ASRock AMD Radeon RX 7700 XT Challenger",
     precio:1758417,
-    imagen:"XXX41.jpg",
+    imagen:"grafi/g5.png",
     descripcion:"12GB GDDR6 / RX 7700 XT / PCIe 4.0 / Ray Tracing",
     stock:true
 },
@@ -491,7 +491,7 @@ const productos = [
     id:57,
     nombre:"GIGABYTE Radeon RX 9070 XT Gaming OC",
     precio:2996686,
-    imagen:"XXX40.jpg",
+    imagen:"grafi/g6.png",
     descripcion:"16GB GDDR6 / RX 9070 XT / PCIe 5.0 / Ray Tracing",
     stock:true
 },
