@@ -222,56 +222,62 @@ const productos = [
 {
     id:25,
     nombre:"CORSAIR Vengeance  16 GB (2 x 8 GB)",
-    precio:1214329,
-    imagen:"XXX13.jpg",
-    descripcion:" AM4 / DDR4 / PCIe 4.0 / SATA 6GB/s / M.2 2 slots / USB 3.2 GEN 2 / HDMI/DP / ATX / WIFI 6E / compatible : RYZEN SERIE 3000, 5000 ",
-    stock:true
+    precio:1108862,
+    imagen:"ram/r1.png",
+    descripcion:" DDR5 / 16GB (2x8GB) / 5200MHz / CL40 / AMD EXPO + Intel XMP / Disipador aluminio / Compatible AMD AM5 e Intel LGA1700",
+    stock:true,
+    link:"https://mpago.li/2U7zw7o"
 },
 {
     id:26,
     nombre:"Kingston Fury Beast RGB 32GB (2 x 16 GB)",
-    precio:1829749,
-    imagen:"XXX14.jpg",
-    descripcion:" AM5 / DDR5 / PCIe 5.0 SSD + PCIe 4.0 GPU / SATA 6GB/s / M.2 3 slots / USB 3.2 GEN 2 / HDMI/DP / ATX / WIFI 6E / compatible : RYZEN SERIE 7000, 9000 ",
-    stock:true
+    precio:1902883,
+    imagen:"ram/r2.png",
+    descripcion:" DDR5 / 32GB (2x16GB) / 5600MT/s / CL36 / RGB / AMD EXPO + Intel XMP / Disipador aluminio / Compatible AMD AM5 e Intel LGA1700 ",
+    stock:true,
+    link:"https://mpago.li/1wRbP9k"
 },
 {
     id:27,
     nombre:"CORSAIR VENGEANCE RGB  RAM 32 GB (2 x 16 GB)",
-    precio:2283743,
-    imagen:"XXX15.jpg",
-    descripcion:"AM5 / DDR5 / PCIe 4.0 x16 / 6x SATA 6Gb/s / M.2 3 slots / USB 3.2 Gen 2 + USB-C 20Gbps / HDMI 2.1 + DP / ATX / WIFI 6E / RYZEN SERIE 7000, 9000 ",
-    stock:true
+    precio:1996236,
+    imagen:"ram/r3.png",
+    descripcion:" DDR5 / 32GB (2x16GB) / 6000MHz / CL36 / RGB / AMD EXPO + Intel XMP 3.0 / Compatible AMD AM5 e Intel LGA1700-LGA1851",
+    stock:true,
+    link:"https://mpago.li/1XXmoq2"
 },
 {
     id:28,
     nombre:"Kingston Fury Beast RGB 16GB (2 x 8 GB)",
-    precio:1604572,
-    imagen:"XXX14.jpg",
-    descripcion:"16GB (2x8GB) / DDR5 / RGB / 5600MHz / CL36",
-    stock:true
+    precio:1636701,
+    imagen:"ram/r4.png",
+    descripcion:" DDR5 / 16GB (2x8GB) / 6000MT/s / CL30 / RGB / AMD EXPO + Intel XMP / Compatible AMD AM5 e Intel LGA1700-LGA1851",
+    stock:true,
+    link:"https://mpago.li/1Vjw6Pk"
 },
 {
     id:29,
     nombre:"G.SKILL Flare X5 32GB (2 x 16 GB)",
-    precio:1945283,
-    imagen:"XXX16.jpg",
-    descripcion:"32GB (2x16GB) / DDR5 / AMD EXPO / 6000MHz / CL36",
-    stock:true
+    precio:1989333,
+    imagen:"ram/r5.png",
+    descripcion:" DDR5 / 32GB (2x16GB) / 6000MT/s / CL36 / AMD EXPO + Intel XMP 3.0 / Compatible AMD AM5 e Intel LGA1700-LGA1851",
+    stock:true,
+    link:"https://mpago.li/2eqbhWW"
 },
 {
     id:30,
     nombre:"G.SKILL Flare X5 16GB (2 x 8 GB)",
-    precio:1143035,
-    imagen:"XXX16.jpg",
-    descripcion:"16GB (2x8GB) / DDR5 / AMD EXPO / 5600MHz / CL36",
-    stock:true
+    precio:1153218,
+    imagen:"ram/r6.png",
+    descripcion:" DDR5 / 16GB (2x8GB) / 5600MT/s / CL36 / AMD EXPO / Compatible AMD AM5 e Intel LGA1700",
+    stock:true,
+    link:"https://mpago.li/1QRTbJs"
 },
 {
     id:31,
     nombre:"CORSAIR VENGEANCE RGB PRO 16 GB (2 x 8 GB)",
     precio:824087,
-    imagen:"XXX17.jpg",
+    imagen:"ram/r7.png",
     descripcion:"16GB (2x8GB) / DDR4 / RGB / 3200MHz / CL16",
     stock:true
 },
@@ -279,7 +285,7 @@ const productos = [
     id:32,
     nombre:"CORSAIR Vengeance LPX 16 GB (2 x 8 GB)",
     precio:782811,
-    imagen:"XXX18.jpg",
+    imagen:"ram/r8.png",
     descripcion:"16GB (2x8GB) / DDR4 / Low Profile / 3200MHz / CL16",
     stock:true
 },
@@ -287,7 +293,7 @@ const productos = [
     id:33,
     nombre:"CORSAIR Vengeance LPX 32 GB (2 x 16 GB)",
     precio:1270614,
-    imagen:"XXX18.jpg",
+    imagen:"ram/r9.png",
     descripcion:"32GB (2x16GB) / DDR4 / Low Profile / 3600MHz / CL18",
     stock:true
 },
@@ -295,7 +301,7 @@ const productos = [
     id:34,
     nombre:"GIGASTONE Game TURBO Kit de 16 GB (2 x 8 GB)",
     precio:704013,
-    imagen:"XXX19.jpg",
+    imagen:"ram/r11.png",
     descripcion:"16GB (2x8GB) / DDR4 / Gaming / 3200MHz / CL16",
     stock:true
 },
@@ -303,7 +309,7 @@ const productos = [
     id:35,
     nombre:"GIGASTONE Game TURBO Kit 32GB (2 x 16 GB)",
     precio:1154292,
-    imagen:"XXX19.jpg",
+    imagen:"ram/r12.png",
     descripcion:"32GB (2x16GB) / DDR4 / Gaming / 3600MHz / CL18",
     stock:true
 },
@@ -311,7 +317,7 @@ const productos = [
     id:36,
     nombre:"CORSAIR Vengeance RGB RS 64GB (2 x 32 GB)",
     precio:34049442,
-    imagen:"XXX20.jpg",
+    imagen:"ram/r10.png",
     descripcion:"64GB (2x32GB) / DDR4 / RGB / 3600MHz / CL18",
     stock:true
 },
