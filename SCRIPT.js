@@ -330,50 +330,56 @@ const productos = [
 {
     id:37,
     nombre:"Kingston NV3 500GB M.2 NVMe SSD",
-    precio:698234,
+    precio:519753,
     imagen:"alma/a1.png",
-    descripcion:"500GB / M.2 NVMe / PCIe 4.0 / 5000MB/s Lectura",
-    stock:true
+    descripcion:"SSD NVMe PCIe 4.0 / 500GB / M.2 2280 / Lectura hasta 5000MB/s / Escritura hasta 3000MB/s",
+    stock:true,
+    link:"https://mpago.li/1KJE8eq"
 },
 {
     id:38,
     nombre:"WD Blue SN5100 1TB M.2 NVMe SSD",
-    precio:932942,
+    precio:822.968,
     imagen:"alma/a2.png",
-    descripcion:"1TB / M.2 NVMe / PCIe 4.0 / 5150MB/s Lectura",
-    stock:true
+    descripcion:"SSD NVMe PCIe 4.0 / 1TB / M.2 2280 / Lectura hasta 7100MB/s / Escritura hasta 6000MB/s",
+    stock:true,
+    link:"https://mpago.li/2TYSj5p"
 },
 {
     id:39,
     nombre:"Samsung 990 PRO 2TB M.2 NVMe SSD",
-    precio:1833464,
+    precio:1862561,
     imagen:"alma/a3.png",
-    descripcion:"2TB / M.2 NVMe / PCIe 4.0 / 7450MB/s Lectura",
-    stock:true
+    descripcion:"SSD NVMe PCIe 4.0 / 2TB / M.2 2280 / Lectura hasta 7450MB/s / Escritura hasta 6900MB/s / DRAM Cache",
+    stock:true,
+    link:"https://mpago.li/2YkxK9J"
 },
 {
     id:40,
     nombre:"Kingston 480GB A400 SATA 3 2.5",
-    precio:629003,
+    precio:506.757,
     imagen:"alma/r4.png",
-    descripcion:"480GB / SATA III / 2.5 Pulgadas / 500MB/s Lectura",
-    stock:true
+    descripcion:"SSD SATA III / 480GB / 2.5 pulgadas / Lectura hasta 500MB/s / Escritura hasta 450MB/s",
+    stock:true,
+    link:"https://mpago.li/2v4m18S"
 },
 {
     id:41,
     nombre:"Crucial BX500 1TB 3D NAND SATA SSD interno de 2.5",
-    precio:895381,
+    precio:822794,
     imagen:"alma/r5.png",
-    descripcion:"1TB / SATA III / 2.5 Pulgadas / 540MB/s Lectura",
-    stock:true
+    descripcion:" SSD SATA III / 1TB / 2.5 pulgadas / Lectura hasta 540MB/s / Escritura hasta 500MB/s",
+    stock:true,
+    link:"https://mpago.li/1k6YhPe"
 },
 {
     id:42,
     nombre:"Samsung Electronics 870 EVO 2TB 2.5",
-    precio:2702804,
+    precio:2855458,
     imagen:"alma/r6.png",
-    descripcion:"2TB / SATA III / 2.5 Pulgadas / 560MB/s Lectura",
-    stock:true
+    descripcion:"SSD SATA III / 2TB / 2.5 pulgadas / Lectura hasta 560MB/s / Escritura hasta 530MB/s / DRAM Cache",
+    stock:false,
+    link:"https://mpago.li/1jBquQW"
 },
 {
     id:43,
