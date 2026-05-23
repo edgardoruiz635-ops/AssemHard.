@@ -830,9 +830,9 @@ margin-top:15px;
 }
 
 .slider{
-    width:99%;
+    width:90%;
     max-width:1200px;
-    height:800px;
+    height:700px;
     position:relative;
     overflow:hidden;
     border-radius:20px;
