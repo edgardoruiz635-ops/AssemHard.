@@ -412,50 +412,56 @@ const productos = [
 {
     id:46,
     nombre:"CORSAIR RM1000x ATX 3.1 PCIe 5.1 Ready modular 1000W",
-    precio:820335,
+    precio:645110,
     imagen:"fue/f1.png",
-    descripcion:"1000W / 80 Plus Gold / Modular / PCIe 5.1 / ATX 3.1",
-    stock:true
+    descripcion:"Fuente 1000W / Cybenetics Gold / Full Modular / ATX 3.1 / PCIe 5.1 / Conector 12V-2x6",
+    stock:true,
+    link:"https://mpago.li/2NFofjV"
 },
 {
     id:47,
     nombre:"CORSAIR RM750e ATX 3.1 PCIe 5.1 Ready modular 750W",
-    precio:895381,
+    precio:389804,
     imagen:"fue/f2.png",
-    descripcion:"750W / 80 Plus Gold / Modular / PCIe 5.1 / ATX 3.1",
-    stock:true
+    descripcion:"Fuente 750W / Cybenetics Gold / Full Modular / ATX 3.1 / PCIe 5.1 / Cable 12V-2x6",
+    stock:true,
+    link:"https://mpago.li/2MbPJqY"
 },
 {
     id:48,
     nombre:"MSI MAG A650BE, semimodular ATX de 650 W",
-    precio:501387,
+    precio:281512,
     imagen:"fue/f3.png",
-    descripcion:"650W / 80 Plus Bronze / Semi Modular / ATX",
-    stock:true
+    descripcion:"Fuente 650W / 80 Plus Bronze / Semi Modular / ATX / PFC Activo / Ventilador bajo ruido",
+    stock:true,
+    link:"https://mpago.li/2cdPj4G"
 },
 {
     id:49,
     nombre:"MSI MAG A1200PLS PCIE5, modular de 1200 W",
-    precio:1120501,
+    precio:1039549,
     imagen:"fue/f4.png",
-    descripcion:"1200W / 80 Plus Platinum / Modular / PCIe 5.0",
-    stock:true
+    descripcion:"Fuente 1200W / 80 Plus Platinum / Full Modular / ATX 3.0 / PCIe 5 / Dual 12V-2x6",
+    stock:true,
+    link:"https://mpago.li/2TA9Qy5"
 },
 {
     id:50,
     nombre:"ORA PRO G1, ATX modular de 850 W",
-    precio:632718,
+    precio:476437,
     imagen:"fue/f5.png",
-    descripcion:"850W / 80 Plus Gold / Modular / ATX",
-    stock:true
+    descripcion:"Fuente 850W / Cybenetics Gold / Full Modular / ATX 3.1 / PCIe 5.1 / Conector 12V-2x6",
+    stock:true,
+    link:"https://mpago.li/2jsX7pQ"
 },
 {
     id:51,
     nombre:"ORA PRO G1, ATX modular de 1000 W",
-    precio:670242,
+    precio:519753,
     imagen:"fue/f6.png",
-    descripcion:"1000W / 80 Plus Gold / Modular / ATX",
-    stock:true
+    descripcion:"Fuente 1000W / Cybenetics Gold / Full Modular / ATX 3.1 / PCIe 5.1 / Conector 12V-2x6",
+    stock:true,
+    link:"https://mpago.li/1m8hXHw"
 },
 {
     id:52,
