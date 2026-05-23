@@ -825,13 +825,13 @@ margin-top:15px;
     width:100%;
     display:flex;
     justify-content:center;
-    margin-top:20px;
+    margin-top:50px;
     margin-bottom:40px;
 }
 
 .slider{
     width:90%;
-    max-width:1200px;
+    max-width:1500px;
     height:700px;
     position:relative;
     overflow:hidden;
