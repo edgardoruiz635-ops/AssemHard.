@@ -393,18 +393,21 @@ const productos = [
 {
     id:44,
     nombre:"Western Digital - Disco duro interno WD Blue de 4 TB",
-    precio:670242,
+    precio:604263,
     imagen:"alma/r8.png",
-    descripcion:"4TB / HDD / 5400RPM / SATA III / 256MB Cache",
-    stock:true
+    descripcion:"HDD SATA III / 4TB / 3.5 pulgadas / 128MB Cache / 5400RPM",
+    stock:false,
+    link:"https://mpago.li/1y6hbJK"
+    
 },
 {
     id:45,
     nombre:"Western Digital (WD) BLUE Desktop 1TB",
-    precio:550205,
+    precio:411462,
     imagen:"alma/r9.png",
-    descripcion:"1TB / HDD / 7200RPM / SATA III / 64MB Cache",
-    stock:true
+    descripcion:"HDD SATA III / 1TB / 3.5 pulgadas / 64MB Cache / 7200RPM",
+    stock:true,
+    link:"https://mpago.li/1gbFG4B"
 },
 {
     id:46,
