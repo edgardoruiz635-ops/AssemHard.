@@ -384,10 +384,11 @@ const productos = [
 {
     id:43,
     nombre:"Seagate BarraCuda - Disco duro interno de 8 TB",
-    precio:1189789,
+    precio:1017935,
     imagen:"alma/r7.png",
-    descripcion:"8TB / HDD / 7200RPM / SATA III / 256MB Cache",
-    stock:true
+    descripcion:" HDD SATA III / 8TB / 3.5 pulgadas / 256MB Cache / 5400RPM",
+    stock:true,
+    link:"https://mpago.li/2mjNA1Z"
 },
 {
     id:44,
