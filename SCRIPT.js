@@ -912,6 +912,78 @@ const productos = [
     descripcion:" Chipset: Z790 / Socket: LGA1700 / Formato: ATX / RAM DDR5 hasta 192GB / PCIe 5.0 / 4x M.2 / Wi-Fi 6 + Bluetooth / LAN 2.5G / Compatible Intel Core i 12th, 13th y 14th Gen ",
     stock:true,
     link:"https://mpago.li/2NDhUKd"
+},
+{
+    id:107,
+    nombre:" INTEL i5-13600K ",
+    precio:1424705,
+    imagen:"refrig/ra1.png",
+    descripcion:" Núcleos: 14 / Hilos: 20 / Socket: LGA1700 / Velocidad: 3,5 GHz Max: 5,1 GHz / 125W / Arquitectura: Raptor Lake / Gráficos UHD 770",
+    stock:true,
+    link:"https://mpago.li/1BJP4Qk"
+},
+{
+    id:108,
+    nombre:"INTEL CORE ULTRA 5 245K ",
+    precio:803865,
+    imagen:"refrig/ra2.png",
+    descripcion:" Núcleos: 14 (6P + 8E) / Hilos: 14 / Socket: LGA1851 / Velocidad: 4,2 GHz Max: 5,2 GHz / 125W / Arquitectura: Arrow Lake / Gráficos Intel Graphics",
+    stock:true,
+    link:"https://mpago.li/26tqi29"
+},
+{
+    id:109,
+    nombre:" INTEL i7-12700kf ",
+    precio:1174601,
+    imagen:"refrig/ra3.png",
+    descripcion:" Núcleos: 12 / Hilos: 20 / Socket: LGA1700 / Velocidad: 3,6 GHz Max: 5,0 GHz / 125W / Arquitectura: Alder Lake / Sin gráficos integrados",
+    stock:true,
+    link:"https://mpago.li/1HK393F"
+},
+{
+    id:110,
+    nombre:" INTEL i7-14700K ",
+    precio:1648014,
+    imagen:"refrig/ra4.png",
+    descripcion:" Núcleos: 20 / Hilos: 28 / Socket: LGA1700 / Velocidad: 3,4 GHz Max: 5,6 GHz / 125W / Arquitectura: Raptor Lake Refresh / Gráficos UHD 770",
+    stock:true,
+    link:"https://mpago.li/2FsgwbZ"
+},
+{
+    id:111,
+    nombre:" INTEL CORE ULTRA 7 265KF ",
+    precio:1251686,
+    imagen:"refrig/rl1.png",
+    descripcion:" Núcleos: 20 / Hilos: 20 / Socket: LGA1851 / Velocidad: 3,9 GHz Max: 5,5 GHz / 125W / Arquitectura: Arrow Lake / Sin gráficos integrados ",
+    stock:true,
+    link:"https://mpago.li/2vhaszg"
+},
+{
+    id:112,
+    nombre:" INTEL i9-12900KF ",
+    precio:1558646,
+    imagen:"refrig/rl2.png",
+    descripcion:" Núcleos: 16 / Hilos: 24 / Socket: LGA1700 / Velocidad: 3,2 GHz Max: 5,2 GHz / 125W / Arquitectura: Alder Lake / Sin gráficos integrados",
+    stock:true,
+    link:"https://mpago.li/2BJoE51"
+},
+    {
+    id:113,
+    nombre:" INTEL CORE ULTRA 9 285K ",
+    precio:2479613,
+    imagen:"refrig/rl3.png",
+    descripcion:" Núcleos: 24 / Hilos: 24 / Socket: LGA1851 / Velocidad: 3,7 GHz Max: 5,7 GHz / 125W / Arquitectura: Arrow Lake / Gráficos Intel Arc ",
+    stock:true,
+    link:"https://mpago.li/2Kmvp1c"
+},
+    {
+    id:114,
+    nombre:" ASUS TUF GAMING Z790-PLUS WIFI ",
+    precio:826240,
+    imagen:"refrig/rl4.png",
+    descripcion:" Chipset: Z790 / Socket: LGA1700 / Formato: ATX / RAM DDR5 hasta 192GB / PCIe 5.0 / 4x M.2 / Wi-Fi 6 + Bluetooth / LAN 2.5G / Compatible Intel Core i 12th, 13th y 14th Gen ",
+    stock:true,
+    link:"https://mpago.li/2NDhUKd"
 }
 
 
