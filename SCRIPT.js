@@ -960,30 +960,30 @@ const productos = [
 },
 {
     id:112,
-    nombre:"",
-    precio:,
+    nombre:"CORSAIR Nautilus 360 RS",
+    precio:389804,
     imagen:"refrig/rl2.png",
-    descripcion:"",
+    descripcion:" Refrigeración Líquida 360mm / 3x120mm RS120 / Daisy-Chain / Compatible AMD AM4-AM5 e Intel LGA1851-LGA1700",
     stock:true,
-    link:""
+    link:"https://mpago.li/1dPmh6F"
 },
     {
     id:113,
-    nombre:"",
-    precio:,
+    nombre:"MSI MAG CoreLiquid A12 240 ARGB",
+    precio:248842,
     imagen:"refrig/rl3.png",
-    descripcion:"",
+    descripcion:"Refrigeración Líquida 240mm / 2x120mm ARGB PWM / Doble bola / Compatible AMD AM4-AM5 e Intel LGA1700-LGA1851",
     stock:true,
-    link:""
+    link:"https://mpago.li/2cWEVJ6"
 },
     {
     id:114,
-    nombre:"",
-    precio:,
+    nombre:"MSI MAG CoreLiquid A13 360 White ARGB",
+    precio:389804,
     imagen:"refrig/rl4.png",
-    descripcion:"",
+    descripcion:"Refrigeración Líquida 360mm / 3x120mm ARGB PWM / Blanco / Compatible AMD AM4-AM5 e Intel LGA1700-LGA1851",
     stock:true,
-    link:""
+    link:"https://mpago.li/2fXMZHp"
 }
 
 
