@@ -466,10 +466,11 @@ const productos = [
 {
     id:52,
     nombre:"ASUS Dual GeForce RTX™ 5060",
-    precio:1545060,
+    precio:1476580,
     imagen:"grafi/g1.png",
-    descripcion:"8GB GDDR7 / RTX 5060 / DLSS 4 / PCIe 5.0",
-    stock:false
+    descripcion:" GPU RTX 5060 OC / 8GB GDDR7 / PCIe 5.0 / DLSS 4 / HDMI 2.1b + 3x DisplayPort 2.1b / Diseño 2.5 Slots",
+    stock:true,
+    link:"https://mpago.li/2VnVKAk"
 },
 {
     id:53,
