@@ -116,7 +116,7 @@ const productos = [
     precio:707395,
     imagen:"boar/b1.png",
     descripcion:" Chipset: B550 / Socket: AM4 / Formato: ATX / RAM DDR4 hasta 128GB / PCIe 4.0 / 2x M.2 / Wi-Fi + Bluetooth / LAN 2.5G / compatible : RYZEN SERIE 3000, 5000 ",
-    stock:false,
+    stock:true,
     link:"https://mpago.li/1z7WmMA"
 },
 {
@@ -469,7 +469,7 @@ const productos = [
     precio:1545060,
     imagen:"grafi/g1.png",
     descripcion:"8GB GDDR7 / RTX 5060 / DLSS 4 / PCIe 5.0",
-    stock:true
+    stock:false
 },
 {
     id:53,
@@ -477,7 +477,7 @@ const productos = [
     precio:2310000,
     imagen:"grafi/g2.png",
     descripcion:"16GB GDDR6 / RTX 4060 Ti / DLSS 3 / PCIe 4.0",
-    stock:true
+    stock:false
 },
 {
     id:54,
@@ -485,7 +485,7 @@ const productos = [
     precio:3897245,
     imagen:"grafi/g3.png",
     descripcion:"16GB GDDR7 / RTX 5070 Ti / DLSS 4 / PCIe 5.0",
-    stock:true
+    stock:false
 },
 {
     id:55,
@@ -493,7 +493,7 @@ const productos = [
     precio:1946034,
     imagen:"grafi/g4.png",
     descripcion:"16GB GDDR6 / RX 9060 XT / PCIe 5.0 / Ray Tracing",
-    stock:true
+    stock:false
 },
 {
     id:56,
@@ -501,7 +501,7 @@ const productos = [
     precio:1758417,
     imagen:"grafi/g5.png",
     descripcion:"12GB GDDR6 / RX 7700 XT / PCIe 4.0 / Ray Tracing",
-    stock:true
+    stock:false
 },
 {
     id:57,
@@ -509,7 +509,7 @@ const productos = [
     precio:2996686,
     imagen:"grafi/g6.png",
     descripcion:"16GB GDDR6 / RX 9070 XT / PCIe 5.0 / Ray Tracing",
-    stock:true
+    stock:false
 },
 {
     id:58,
@@ -517,7 +517,7 @@ const productos = [
     precio:999043,
     imagen:"XXX42.jpg",
     descripcion:"ATX / ARGB / Vidrio Templado / Flujo de Aire",
-    stock:true
+    stock:false
 },
 {
     id:59,
@@ -525,7 +525,7 @@ const productos = [
     precio:1120625,
     imagen:"XXX43.jpg",
     descripcion:"ATX / Madera Natural / Vidrio Templado / Airflow",
-    stock:true
+    stock:false
 },
 {
     id:60,
@@ -533,7 +533,7 @@ const productos = [
     precio:2372398,
     imagen:"XXX44.jpg",
     descripcion:"ATX / Pantalla Touch / Dual Chamber / Vidrio Templado",
-    stock:true
+    stock:false
 },
 {
     id:61,
@@ -541,7 +541,7 @@ const productos = [
     precio:771177,
     imagen:"XXX45.jpg",
     descripcion:"ATX Compacto / Airflow / Vidrio Templado / ARGB",
-    stock:true
+    stock:false
 },
 {
     id:62,
@@ -549,7 +549,7 @@ const productos = [
     precio:756069,
     imagen:"XXX46.jpg",
     descripcion:"ATX / Airflow / Vidrio Templado / Gestión de Cables",
-    stock:true
+    stock:false
 },
 {
     id:63,
@@ -557,7 +557,7 @@ const productos = [
     precio:970602,
     imagen:"XXX47.jpg",
     descripcion:"ATX / Vidrio Templado / ARGB / Alto Flujo de Aire",
-    stock:true
+    stock:false
 },
 {
     id:64,
@@ -565,7 +565,7 @@ const productos = [
     precio:778996,
     imagen:"XXX48.jpg",
     descripcion:" Mouse Gamer Inalámbrico / Sensor HERO 2 / 32000 DPI / Ultraligero 60g / USB-C / RGB / Compatible Windows y Mac ",
-    stock:true
+    stock:false
 },
 {
     id:65,
@@ -573,7 +573,7 @@ const productos = [
     precio:522122,
     imagen:"XXX49.jpg",
     descripcion:" Mouse Gamer Inalámbrico / Sensor Focus Pro 30000 DPI / Ergonomico / 63g / USB-C / Hasta 90 horas de batería ",
-    stock:true
+    stock:false
 },
 {
     id:66,
@@ -581,7 +581,7 @@ const productos = [
     precio:895365,
     imagen:"XXX50.jpg",
     descripcion:" Teclado Mecánico Gamer / Switches OmniPoint ajustables / RGB / Reposamuñecas magnético / USB / Formato Full Size ",
-    stock:true
+    stock:false
 },
 {
     id:67,
@@ -589,7 +589,7 @@ const productos = [
     precio:748742,
     imagen:"XXX51.jpg",
     descripcion:" Teclado Mecánico Gamer / Switches Cherry MX / RGB / Anti-Ghosting / Teclas multimedia / USB-C ",
-    stock:true
+    stock:false
 },
 {
     id:68,
@@ -597,7 +597,7 @@ const productos = [
     precio:673202,
     imagen:"XXX52.jpg",
     descripcion:" Audífonos Gamer Inalámbricos / RGB LIGHTSYNC / Micrófono removible / Hasta 29 horas de batería / USB inalámbrico ",
-    stock:true
+    stock:false
 },
 {
     id:69,
@@ -605,7 +605,7 @@ const productos = [
     precio:703456,
     imagen:"XXX53.jpg",
     descripcion:" Headset Gamer Inalámbrico / THX Spatial Audio / Micrófono HyperClear / Baja latencia / Hasta 70 horas de batería ",
-    stock:true
+    stock:false
 },
 {
     id:70,
@@ -613,7 +613,7 @@ const productos = [
     precio:590146,
     imagen:"XXX54.jpg",
     descripcion:" Micrófono USB Profesional / Grabación cardioide / Plug & Play / Ideal streaming y podcast / Compatible PC y Mac ",
-    stock:true
+    stock:false
 },
 {
     id:71,
@@ -621,7 +621,7 @@ const productos = [
     precio:786512,
     imagen:"XXX55.jpg",
     descripcion:" Controlador para Streaming / 15 teclas LCD personalizables / Compatible OBS, Twitch y YouTube / USB-C ",
-    stock:true
+    stock:false
 },
 {
     id:72,
@@ -629,7 +629,7 @@ const productos = [
     precio:478497,
     imagen:"XXX56.jpg",
     descripcion:" Webcam Full HD 1080p / Micrófonos estéreo integrados / Autofocus / Corrección automática de luz / USB ",
-    stock:true
+    stock:false
 },
 {
     id:73,
@@ -637,7 +637,7 @@ const productos = [
     precio:708894,
     imagen:"XXX57.jpg",
     descripcion:" Webcam Full HD 1080p 60FPS / Sensor adaptativo de luz / HDR / Gran angular ajustable / USB 3.0 ",
-    stock:true
+    stock:false
 },
 {
     id:74,
@@ -645,7 +645,7 @@ const productos = [
     precio:710972,
     imagen:"XXX58.jpg",
     descripcion:" Webcam Full HD 1080p 60FPS / Lente profesional / Baja latencia / Ideal para streaming / USB-C ",
-    stock:true
+    stock:false
 },
 {
     id:75,
@@ -653,7 +653,7 @@ const productos = [
     precio:786512,
     imagen:"XXX59.jpg",
     descripcion:" Webcam Ultra HD 4K / HDR / Zoom digital 5x / Reconocimiento facial Windows Hello / USB ",
-    stock:true
+    stock:false
 },
 {
     id:76,
@@ -661,7 +661,7 @@ const productos = [
     precio:1027900,
     imagen:"XXX60.jpg",
     descripcion:" Webcam 4K UHD / Micrófonos duales / Autoenfoque rápido / Compatible OBS y Discord / USB-C ",
-    stock:true
+    stock:false
 },
 {
     id:77,
@@ -669,7 +669,7 @@ const productos = [
     precio:824282,
     imagen:"XXX61.jpg",
     descripcion:" Webcam Full HD 1080p 60FPS / Micrófono con cancelación de ruido IA / Compacta y portátil / USB ",
-    stock:true
+    stock:false
 },
 {
     id:78,
@@ -677,7 +677,7 @@ const productos = [
     precio:334669,
     imagen:"XXX62.jpg",
     descripcion:" Adaptador PCIe WiFi 6 / Hasta 2400 Mbps / Bluetooth 5.0 / Antenas de alta ganancia / Compatible Windows ",
-    stock:true
+    stock:false
 },
 {
     id:79,
@@ -685,7 +685,7 @@ const productos = [
     precio:286900,
     imagen:"XXX63.jpg",
     descripcion:" Adaptador USB Tipo C a RJ45 / Velocidad Gigabit 1000 Mbps / Plug & Play / Compatible laptops y PC ",
-    stock:true
+    stock:false
 },
 {
     id:80,
@@ -693,7 +693,7 @@ const productos = [
     precio:320000,
     imagen:"XXX64.jpg",
     descripcion:" Adaptador Bluetooth USB / Bluetooth 5.0 / Baja latencia / Compatible audífonos y controles inalámbricos ",
-    stock:true
+    stock:false
 },
 {
     id:81,
@@ -701,7 +701,7 @@ const productos = [
     precio:361552,
     imagen:"XXX65.jpg",
     descripcion:" Adaptador vertical para tarjeta gráfica / Compatible PCIe 4.0 / Soporte metálico premium / Mejora estética RGB ",
-    stock:true
+    stock:false
 },
 {
     id:82,
@@ -709,7 +709,7 @@ const productos = [
     precio:333272,
     imagen:"XXX66.jpg",
     descripcion:" Hub para ventiladores y RGB / Control PWM / Compatible ARGB 5V / Hasta 6 ventiladores ",
-    stock:true
+    stock:false
 },
 {
     id:83,
@@ -717,14 +717,14 @@ const productos = [
     precio:600608,
     imagen:"XXX67.jpg",
     descripcion:" Hub USB 3.0 / 10 puertos de alta velocidad / Compatible PC y laptops ",
-    stock:true
+    stock:false
 },{
     id:84,
     nombre:"Secretlab TITAN Evo",
     precio:4646135,
     imagen:"XXX68.jpeg",
     descripcion:" Silla Gamer Premium / Reclinación 165° / Soporte lumbar ajustable / Cojín magnético / Acabado cuero híbrido ",
-    stock:true
+    stock:false
 },
 {
     id:85,
@@ -732,7 +732,7 @@ const productos = [
     precio:3077000,
     imagen:"XXX69.jpg",
     descripcion:" Silla Gamer Ergonómica / Soporte lumbar adaptable / Reclinación ajustable / Espuma de alta densidad ",
-    stock:true
+    stock:false
 },
 {
     id:86,
@@ -740,7 +740,7 @@ const productos = [
     precio:1462800,
     imagen:"XXX70.jpeg",
     descripcion:" Silla Gamer / Diseño amplio y cómodo / Reclinación hasta 160° / Almohadas cervical y lumbar incluidas ",
-    stock:true
+    stock:false
 },
 {
     id:87,
@@ -748,7 +748,7 @@ const productos = [
     precio:1771062,
     imagen:"XXX71.jpg",
     descripcion:" Silla Gamer Profesional / Reposabrazos 4D / Soporte lumbar integrado / Estructura metálica resistente ",
-    stock:true
+    stock:false
 },
 {
     id:88,
@@ -756,7 +756,7 @@ const productos = [
     precio:3702990,
     imagen:"XXX72.jpg",
     descripcion:" Silla de Oficina Ergonómica / Respaldo de malla transpirable / Soporte lumbar / Reposacabezas ajustable ",
-    stock:true
+    stock:false
 },
 {
     id:89,
@@ -764,7 +764,7 @@ const productos = [
     precio:2648686,
     imagen:"XXX73.jpg",
     descripcion:" Silla de Oficina / Diseño ergonómico / Reposabrazos abatibles / Respaldo transpirable / Ajuste de altura ",
-    stock:true
+    stock:false
 },
 {
     id:90,
@@ -772,7 +772,7 @@ const productos = [
     precio:7899990,
     imagen:"XXX74.jpg",
     descripcion:" Laptop Gamer / Intel Core i7 / RTX 4070 / 16GB RAM DDR5 / SSD 1TB NVMe / Pantalla 16'' 240Hz ",
-    stock:true
+    stock:false
 },
 {
     id:91,
@@ -780,7 +780,7 @@ const productos = [
     precio:6499990,
     imagen:"XXX75.jpg",
     descripcion:" Laptop Gamer / Intel Core i7 / RTX 4060 / 16GB RAM / SSD 1TB / Pantalla Full HD 144Hz ",
-    stock:true
+    stock:false
 },
 {
     id:92,
@@ -788,7 +788,7 @@ const productos = [
     precio:8699990,
     imagen:"XXX76.jpg",
     descripcion:" Laptop Gamer / Ryzen 7 / RTX 4070 / 32GB RAM DDR5 / SSD 1TB / Pantalla 16'' 165Hz ",
-    stock:true
+    stock:false
 },
 {
     id:93,
@@ -796,7 +796,7 @@ const productos = [
     precio:4599990,
     imagen:"XXX77.jpg",
     descripcion:" Torre Gamer / Ryzen 5 / RTX 4060 / 16GB RAM / SSD NVMe 1TB / RGB / Ideal gaming Full HD ",
-    stock:true
+    stock:false
 },
 {
     id:94,
@@ -804,7 +804,7 @@ const productos = [
     precio:9899990,
     imagen:"XXX78.jpg",
     descripcion:" Torre Gamer / Ryzen 7 / RTX 5070 Ti / 32GB RAM DDR5 / SSD NVMe 2TB / Refrigeración líquida ",
-    stock:true
+    stock:false
 },
 {
     id:95,
@@ -812,7 +812,7 @@ const productos = [
     precio:14999990,
     imagen:"XXX79.jpg",
     descripcion:" Torre Profesional / Ryzen 9 / RTX 5080 / 64GB RAM DDR5 / SSD 2TB / Edición y Streaming ",
-    stock:true
+    stock:false
 },
     {
     id:96,
