@@ -378,7 +378,7 @@ const productos = [
     precio:2855458,
     imagen:"alma/r6.png",
     descripcion:"SSD SATA III / 2TB / 2.5 pulgadas / Lectura hasta 560MB/s / Escritura hasta 530MB/s / DRAM Cache",
-    stock:false,
+    stock:true,
     link:"https://mpago.li/1jBquQW"
 },
 {
@@ -396,7 +396,7 @@ const productos = [
     precio:604263,
     imagen:"alma/r8.png",
     descripcion:"HDD SATA III / 4TB / 3.5 pulgadas / 128MB Cache / 5400RPM",
-    stock:false,
+    stock:true,
     link:"https://mpago.li/1y6hbJK"
     
 },
